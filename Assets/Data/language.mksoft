@@ -1,0 +1,2318 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+	<entry key="yes">
+		<en>Yes</en>
+		<ge>Ja</ge>
+	</entry>
+	<entry key="no">
+		<en>No</en>
+		<ge>Nein</ge>
+	</entry>
+	<entry key="game_name">
+		<en/>
+		<ge>Bausimulator 2012</ge>
+	</entry>
+	<entry key="game_start">
+		<en/>
+		<ge>Spiel starten</ge>
+	</entry>
+	<entry key="short_game_name">
+		<en>BuildSim2012</en>
+		<ge>Bausimulator2012</ge>
+	</entry>
+	<entry key="exit_game">
+		<en>Quit game</en>
+		<ge>Spiel beenden</ge>
+	</entry>
+	<entry key="exit_game_question">
+		<en/>
+		<ge>Willst du das Spiel wirklich beenden?</ge>
+	</entry>
+	<entry key="goto_gravel_pit">
+		<en>Goto gravel pit</en>
+		<ge>Zur Kiesgrube fahren</ge>
+	</entry>
+	<entry key="show_site_card">
+		<en>Show Site Card</en>
+		<ge>Baustellenkarte anzeigen</ge>
+	</entry>
+	<entry key="show_options_menu">
+		<en>Options</en>
+		<ge>Optionen</ge>
+	</entry>
+	<entry key="show_score_window">
+		<en>Score</en>
+		<ge>Punkte</ge>
+	</entry>
+	<entry key="show_credits_window">
+		<en>Credits</en>
+		<ge>Credits</ge>
+	</entry>
+	<entry key="description">
+		<en/>
+		<ge>Beschreibung</ge>
+	</entry>
+	<entry key="stages">
+		<en/>
+		<ge>Bauabschnitte</ge>
+	</entry>
+	<entry key="to_site">
+		<en/>
+		<ge>Zur Baustelle</ge>
+	</entry>
+	<entry key="building_project">
+		<en/>
+		<ge>Bauvorhaben</ge>
+	</entry>
+	<entry key="building_owner">
+		<en/>
+		<ge>Bauherr</ge>
+	</entry>
+	<entry key="building_costs">
+		<en/>
+		<ge>Baukosten</ge>
+	</entry>
+	<entry key="profile_headline">
+		<en>Gamer Profiles</en>
+		<ge>Spielerprofile</ge>
+	</entry>
+	<entry key="choose_profile">
+		<en>Choose Profile</en>
+		<ge>Profil auswählen</ge>
+	</entry>
+	<entry key="new_profile">
+		<en>New Profile</en>
+		<ge>Neues Profil</ge>
+	</entry>
+	<entry key="new_profile_name">
+		<en>Profilename</en>
+		<ge>Profilname</ge>
+	</entry>
+	<entry key="delete_profile">
+		<en>Delete profile?</en>
+		<ge>Profil wirklich löschen?</ge>
+	</entry>
+	<entry key="last_site">
+		<en/>
+		<ge>Aktuelle Baustelle</ge>
+	</entry>
+	<entry key="last_stage">
+		<en/>
+		<ge>Aktueller Bauabschnitt</ge>
+	</entry>
+	<entry key="game_time">
+		<en/>
+		<ge>Berufserfahrung</ge>
+	</entry>
+	<entry key="options_label">
+		<en>Options</en>
+		<ge>Optionen</ge>
+	</entry>
+	<entry key="graphic_options">
+		<en>Graphic</en>
+		<ge>Grafik</ge>
+	</entry>
+	<entry key="sound_options">
+		<en>Sound</en>
+		<ge>Sound</ge>
+	</entry>
+	<entry key="resolution_label">
+		<en/>
+		<ge>Auflösung</ge>
+	</entry>
+	<entry key="fullscreen_label">
+		<en>Fullscreen</en>
+		<ge>Fullscreen</ge>
+	</entry>
+	<entry key="quality_label">
+		<en>Graphic Quality</en>
+		<ge>Grafikqualität</ge>
+	</entry>
+	<entry key="quality_fastest">
+		<en>Fastest</en>
+		<ge>Am schnellsten</ge>
+	</entry>
+	<entry key="quality_fast">
+		<en>Fast</en>
+		<ge>Schnell</ge>
+	</entry>
+	<entry key="quality_simple">
+		<en>Simple</en>
+		<ge>Einfach</ge>
+	</entry>
+	<entry key="quality_good">
+		<en>Good</en>
+		<ge>Gut</ge>
+	</entry>
+	<entry key="quality_beautiful">
+		<en>Beautiful</en>
+		<ge>Hübsch</ge>
+	</entry>
+	<entry key="quality_fantastic">
+		<en>Fantastic</en>
+		<ge>Fantastisch</ge>
+	</entry>
+	<entry key="music_volume_label">
+		<en/>
+		<ge>Musiklautstärke</ge>
+	</entry>
+	<entry key="fx_volume_label">
+		<en/>
+		<ge>Effektlautstärke</ge>
+	</entry>
+	<entry key="score_label">
+		<en/>
+		<ge>Statistik</ge>
+	</entry>
+	<entry key="countryside">
+		<en>Countryside</en>
+		<ge>Land</ge>
+	</entry>
+	<entry key="harbor">
+		<en>Harbor</en>
+		<ge>Hafen</ge>
+	</entry>
+	<entry key="housing_estate">
+		<en>Housing Estate</en>
+		<ge>Neubaugebiet</ge>
+	</entry>
+	<entry key="industrial_area">
+		<en>Industrial Area</en>
+		<ge>Industriegebiet</ge>
+	</entry>
+	<entry key="gravel_pit">
+		<en>Gravel Pit</en>
+		<ge>Kiesgrube</ge>
+	</entry>
+	<entry key="hape">
+		<en/>
+		<ge>Hans-Peter</ge>
+	</entry>
+	<entry key="fritz">
+		<en/>
+		<ge>Fritz</ge>
+	</entry>
+	<entry key="back_main_menu">
+		<en>Back to main menu?</en>
+		<ge>Zurück zum Hauptmenü?</ge>
+	</entry>
+	<entry key="mission_completed_back_main_menu">
+		<en/>
+		<ge>Mission erfolgreich beendet. Zurück ins Hauptmenu?</ge>
+	</entry>
+	<entry key="task_headline">
+		<en/>
+		<ge>Aufgaben</ge>
+	</entry>
+	<entry key="task_in_sandbox">
+		<en/>
+		<ge>Hier kannst du alle Fahrzeuge ausprobieren.</ge>
+	</entry>
+	<entry key="vehicle_leave_warning">
+		<en/>
+		<ge>Hier darfst du nicht aussteigen. Fahre noch ein Stück weiter.</ge>
+	</entry>
+	<entry key="vehicle_extend_legs_driving">
+		<en/>
+		<ge>Die Stützen können nicht während der Fahrt ausgefahren werden.</ge>
+	</entry>
+	<entry key="vehicle_legs_not_extended">
+		<en/>
+		<ge>Fahre erst die Stützen aus, damit das Fahrzeug stabil steht.  Dann kann's losgehen.</ge>
+	</entry>
+	<entry key="truck_crane_object_dragging">
+		<en/>
+		<ge>Löse erst die Ladung vom Kranhaken, bevor du losfährst.</ge>
+	</entry>
+	<entry key="truck_crane_extended">
+		<en/>
+		<ge>Fahre erst alle Teile des Krans ein, bevor du losfährst.</ge>
+	</entry>
+	<entry key="drag_object_fixed_to_flatbed_truck">
+		<en/>
+		<ge>Löse die Ladung vom Lastwagen, bevor du sie mit dem Kran aufnimmst.</ge>
+	</entry>
+	<entry key="concrete_pump_pipe_fixed">
+		<en/>
+		<ge>Das Ausgussrohr der Betonpumpe muss ausgeklappt sein, um Beton auszugießen.</ge>
+	</entry>
+	<entry key="concrete_pump_pipe_unfixed">
+		<en/>
+		<ge>Fixiere erst das Betonausgussrohr, bevor du losfährst.</ge>
+	</entry>
+	<entry key="concrete_pump_empty">
+		<en/>
+		<ge>Die Betonpumpe ist leer. Fülle sie erst mit dem Betonmischer auf.</ge>
+	</entry>
+	<entry key="concrete_pump_extended">
+		<en/>
+		<ge>Fahre erst alle Teile der Betonpumpe ein, bevor du losfährst.</ge>
+	</entry>
+	<entry key="concrete_pump_no_dump_beneath">
+		<en/>
+		<ge>Beton darf nur in ein Fundament bzw. in eine Betonwandverschalung gegossen werden. </ge>
+	</entry>
+	<entry key="flatbed_truck_fix_load_tow_opened">
+		<en/>
+		<ge>Die Ladung kann erst fixiert werden, wenn die Seitenwände geschlossen sind.</ge>
+	</entry>
+	<entry key="flatbed_truck_fix_load_driving">
+		<en/>
+		<ge>Um die Ladung zu fixieren bzw. zu lösen, muss der Lastwagen angehalten werden.</ge>
+	</entry>
+	<entry key="flatbed_truck_open_tow_driving">
+		<en/>
+		<ge>Die Seitenwände können erst geschlossen bzw. geöffnet werden, wenn der Lastwagen anhält.</ge>
+	</entry>
+	<entry key="truck_dumper_tow_rotated">
+		<en/>
+		<ge>Fahre erst die Ladefläche ein, bevor du losfährst.</ge>
+	</entry>
+	<entry key="truck_dumper_rotate_tow_driving">
+		<en/>
+		<ge>Die Ladefläche kann nicht während der Fahrt gekippt werden.</ge>
+	</entry>
+	<entry key="use_toilet">
+		<en/>
+		<ge>Ahhh, das war dringend nötig.</ge>
+	</entry>
+	<entry key="football_goal">
+		<en>Goooooooaaaaaaaal!</en>
+		<ge>Tooooooooooooooor!</ge>
+	</entry>
+	<entry key="vehicle_reset_disabled">
+		<en/>
+		<ge>Um das Fahrzeug zu resetten, müssen die Stützen eingefahren sein.</ge>
+	</entry>
+	<entry key="truck_dumper_full">
+		<en/>
+		<ge>Der Kipplader ist voll. Entleere ihn zuerst auf dem Schuttplatz des Betonwerks.</ge>
+	</entry>
+	<entry key="key_mappings">
+		<en/>
+		<ge>Tastenbelegung</ge>
+	</entry>
+	<entry key="walk_forward">
+		<en/>
+		<ge>Vorwärts laufen</ge>
+	</entry>
+	<entry key="walk_backward">
+		<en/>
+		<ge>Rückwärts laufen</ge>
+	</entry>
+	<entry key="walk_left">
+		<en/>
+		<ge>Nach links laufen</ge>
+	</entry>
+	<entry key="walk_right">
+		<en/>
+		<ge>Nach rechts laufen</ge>
+	</entry>
+	<entry key="run">
+		<en/>
+		<ge>Rennen</ge>
+	</entry>
+	<entry key="reset_character">
+		<en/>
+		<ge>Charakter zurücksetzen</ge>
+	</entry>
+	<entry key="exit_game_btn">
+		<en/>
+		<ge>Zurück zum Hauptmenü</ge>
+	</entry>
+	<entry key="drive_forward">
+		<en/>
+		<ge>Vorwärts fahren</ge>
+	</entry>
+	<entry key="drive_backward">
+		<en/>
+		<ge>Rückwärts fahren</ge>
+	</entry>
+	<entry key="steer_left">
+		<en/>
+		<ge>Links lenken</ge>
+	</entry>
+	<entry key="steer_right">
+		<en/>
+		<ge>Rechts lenken</ge>
+	</entry>
+	<entry key="enter_vehicle">
+		<en/>
+		<ge>Einsteigen/Aussteigen</ge>
+	</entry>
+	<entry key="repair_vehicle">
+		<en/>
+		<ge>Fahrzeug reparieren</ge>
+	</entry>
+	<entry key="reset_vehicle">
+		<en/>
+		<ge>Fahrzeug zurücksetzen</ge>
+	</entry>
+	<entry key="change_cam">
+		<en/>
+		<ge>Kamera wechseln</ge>
+	</entry>
+	<entry key="change_mode">
+		<en/>
+		<ge>Fahrzeugmodus wechseln</ge>
+	</entry>
+	<entry key="key_empty">
+		<en>.</en>
+		<ge>.</ge>
+	</entry>
+	<entry key="switch_radio_state">
+		<en/>
+		<ge>Radio an/aus</ge>
+	</entry>
+	<entry key="prev_radio_song">
+		<en/>
+		<ge>Vorheriges Lied</ge>
+	</entry>
+	<entry key="next_radio_song">
+		<en/>
+		<ge>Nächstes Lied</ge>
+	</entry>
+	<entry key="change_radio_song">
+		<en/>
+		<ge>Vorheriges/Nächstes Lied</ge>
+	</entry>
+	<entry key="move_cam">
+		<en/>
+		<ge>Kamera bewegen</ge>
+	</entry>
+	<entry key="zoom_cam">
+		<en/>
+		<ge>Kamera zoomen</ge>
+	</entry>
+	<entry key="func_rack">
+		<en/>
+		<ge>Ladefläche heben/senken</ge>
+	</entry>
+	<entry key="func_lift_fork">
+		<en/>
+		<ge>Gabel heben/senken</ge>
+	</entry>
+	<entry key="func_rotate_fork">
+		<en/>
+		<ge>Gabel neigen</ge>
+	</entry>
+	<entry key="func_rotate_tank">
+		<en/>
+		<ge>Trommel rotieren</ge>
+	</entry>
+	<entry key="func_rotate_tank_open">
+		<en/>
+		<ge>Trommel rotieren/ausschütten</ge>
+	</entry>
+	<entry key="func_move_concrete_pipe">
+		<en/>
+		<ge>Ausschüttstutzen rotieren</ge>
+	</entry>
+	<entry key="func_rotate_boom_base_01">
+		<en/>
+		<ge>Ausleger drehen</ge>
+	</entry>
+	<entry key="func_rotate_boom_1">
+		<en/>
+		<ge>Gelenk 1</ge>
+	</entry>
+	<entry key="func_rotate_boom_2">
+		<en/>
+		<ge>Gelenk 2</ge>
+	</entry>
+	<entry key="func_rotate_boom_3">
+		<en/>
+		<ge>Gelenk 3</ge>
+	</entry>
+	<entry key="func_rotate_boom_4">
+		<en/>
+		<ge>Gelenk 4</ge>
+	</entry>
+	<entry key="func_release_concrete_tube">
+		<en/>
+		<ge>Betonausgussrohr lösen/befestigen</ge>
+	</entry>
+	<entry key="func_dump_concrete">
+		<en/>
+		<ge>Beton pumpen</ge>
+	</entry>
+	<entry key="func_extend_legs">
+		<en/>
+		<ge>Stützen ein-/ausfahren</ge>
+	</entry>
+	<entry key="func_rotate_cab_01">
+		<en/>
+		<ge>Führerhaus rotieren</ge>
+	</entry>
+	<entry key="func_move_boom_base">
+		<en/>
+		<ge>Oberen Baggerarm heben/senken</ge>
+	</entry>
+	<entry key="func_move_mid_boom">
+		<en/>
+		<ge>Unteren  Baggerarm heben/senken</ge>
+	</entry>
+	<entry key="func_move_bucket">
+		<en/>
+		<ge>Schaufel öffnen/schließen</ge>
+	</entry>
+	<entry key="func_release_tows">
+		<en/>
+		<ge>Seitenwände öffnen</ge>
+	</entry>
+	<entry key="func_fix_tows">
+		<en/>
+		<ge>Seitenwände schließen</ge>
+	</entry>
+	<entry key="func_fix_load">
+		<en/>
+		<ge>Ladung fixieren/lösen</ge>
+	</entry>
+	<entry key="func_rotate_boom_base">
+		<en/>
+		<ge>Greifarm heben/senken</ge>
+	</entry>
+	<entry key="func_rotate_claw">
+		<en/>
+		<ge>Greifarm rotieren</ge>
+	</entry>
+	<entry key="func_rotate_claw_span">
+		<en/>
+		<ge>Greifarm öffnen/schließen</ge>
+	</entry>
+	<entry key="func_rotate_cab_02">
+		<en/>
+		<ge>Ausleger rotieren</ge>
+	</entry>
+	<entry key="func_rotate_boom_base_02">
+		<en/>
+		<ge>Ausleger heben/senken</ge>
+	</entry>
+	<entry key="func_extend_crane">
+		<en/>
+		<ge>Ausleger aus-/einfahren</ge>
+	</entry>
+	<entry key="func_extend_rope">
+		<en/>
+		<ge>Seil ein-/ausfahren</ge>
+	</entry>
+	<entry key="func_rotate_load">
+		<en/>
+		<ge>Ladung rotieren</ge>
+	</entry>
+	<entry key="func_fix_release_load">
+		<en/>
+		<ge>Ladung aufnehmen/lösen</ge>
+	</entry>
+	<entry key="map_player">
+		<en/>
+		<ge>Spieler</ge>
+	</entry>
+	<entry key="map_material_store">
+		<en/>
+		<ge>Baustoffhandel</ge>
+	</entry>
+	<entry key="map_concrete_factory">
+		<en/>
+		<ge>Betonwerk</ge>
+	</entry>
+	<entry key="map_construction_site">
+		<en/>
+		<ge>Baustelle</ge>
+	</entry>
+	<entry key="truck_dumper_name">
+		<en>Truck Dumper</en>
+		<ge>Kipplader</ge>
+	</entry>
+	<entry key="m0001_name">
+		<en/>
+		<ge>Garage bauen</ge>
+	</entry>
+	<entry key="m0001_owner">
+		<en/>
+		<ge>Familie A. Müller</ge>
+	</entry>
+	<entry key="m0001_costs">
+		<en/>
+		<ge>12.000 €</ge>
+	</entry>
+	<entry key="m0001_s1_name">
+		<en/>
+		<ge>Fundament ausheben</ge>
+	</entry>
+	<entry key="m0001_s1_tasks">
+		<en/>
+		<ge>1. Fahre mit dem Kipplaster zur Baustelle
+
+2. Baggere den markierten Bereich aus</ge>
+	</entry>
+	<entry key="m0001_s1_d1A">
+		<en/>
+		<ge>Ahhhh, du musst der Neue sein. Fritz, richtig? Ich bin hier der Vorarbeiter. Mein Name ist Hans-Peter, aber meine Freunde nennen mich einfach Hape.</ge>
+	</entry>
+	<entry key="m0001_s1_d1B">
+		<en/>
+		<ge>Guten Morgen, Chef. Ich freu' mich schon auf meinen ersten Tag.</ge>
+	</entry>
+	<entry key="m0001_s1_d1C">
+		<en/>
+		<ge>Gut, wir haben nämlich direkt was zu tun. Familie Müller baut oben im Neubaugebiet ihr Haus. Sie hat uns kurzfristig mit der Errichtung ihrer Garage beauftragt. Die muss heute fertig werden, deshalb sollten wir direkt loslegen. Fahr' mit dem LKW auf die Baustelle. Der Bagger steht schon dort. Du kannst direkt die Grube für die Schüttung ausheben. Das ausgehobene Erdreich kannst du dann direkt auf den Kipplader schütten. Wenn er voll ist, fahr' mit ihm zum Betonwerk, dort haben wir einen Abladeplatz eingerichtet. Ich komme dann später mit dem Autokran, um die Fertigbauteile der Garage zu setzen.</ge>
+	</entry>
+	<entry key="m0001_s1_d1D">
+		<en/>
+		<ge>Alles klar. Ich fahr' gleich los. Bis später.</ge>
+	</entry>
+	<entry key="m0001_s2_name">
+		<en/>
+		<ge>Garage aufbauen</ge>
+	</entry>
+	<entry key="m0001_s2_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Garagenwände auf den dafür vorgesehenen Platz. Beachte dabei die richtige Reihenfolge, das aktuelle Element ist mit einem gelben Kranhaken markiert.</ge>
+	</entry>
+	<entry key="m0001_s2_d1A">
+		<en/>
+		<ge>So, da bin ich. Ich sehe, du bist schon fertig. Klasse! Ich hab' leider noch im Büro zu tun. Kannst du den Autokran bedienen?</ge>
+	</entry>
+	<entry key="m0001_s2_d1B">
+		<en/>
+		<ge>Ja, klar, das kann ich. Hab' ich bei meiner letzten Firma auch gemacht.</ge>
+	</entry>
+	<entry key="m0001_s2_d1C">
+		<en/>
+		<ge>Super, dann übernimm du das. Der Tieflader mit den Fertigbauteilen steht schon bereit. Du musst nur die Teile aufnehmen und korrekt absetzen. Bitte sei vorsichtig, damit du den Rohbau oder irgendwas anderes nicht beschädigst. Wenn du fertig bist, komm' ins Büro. Ach, und noch was: Wenn du bei der Arbeit Musik hören willst, kannst du einfach das Radio anmachen. Dann werden die Lieder aus dem Musik-Ordner im Installationsverzeichnis abgespielt.</ge>
+	</entry>
+	<entry key="m0001_s2_d1D">
+		<en/>
+		<ge>OK, Chef. Danke für den Tipp. Ich mach mich gleich dran. Bis dann.</ge>
+	</entry>
+	<entry key="m0001_s2_d2A">
+		<en/>
+		<ge>Und, bist du klar gekommen?</ge>
+	</entry>
+	<entry key="m0001_s2_d2B">
+		<en/>
+		<ge>Ja, war kein Problem. Die Garage steht.</ge>
+	</entry>
+	<entry key="m0001_s2_d2C">
+		<en/>
+		<ge>Na, das lief ja reibungslos. Gute Arbeit, ein super Einstieg. Ich bin froh, dass du jetzt bei uns bist. Uns erwartet die kommenden Wochen noch einiges an Arbeit.
+So, aber jetzt ist erstmal Feierabend. Wir sehen uns morgen.</ge>
+	</entry>
+	<entry key="m0001_s2_d2D">
+		<en/>
+		<ge>Schönen Feierabend, Boss. Bis morgen.</ge>
+	</entry>
+	<entry key="m0002_name">
+		<en/>
+		<ge>Reihenhaus bauen</ge>
+	</entry>
+	<entry key="m0002_owner">
+		<en/>
+		<ge>Familie Nold</ge>
+	</entry>
+	<entry key="m0002_costs">
+		<en/>
+		<ge>235.000 €</ge>
+	</entry>
+	<entry key="m0002_s1_name">
+		<en/>
+		<ge>Fundament ausheben</ge>
+	</entry>
+	<entry key="m0002_s1_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich für das Fundament aus</ge>
+	</entry>
+	<entry key="m0002_s1_d1A">
+		<en/>
+		<ge>Dein erster Einsatz lief ja ganz gut. Jetzt hat Familie Müller auch einen Platz für ihren teuren Wagen.</ge>
+	</entry>
+	<entry key="m0002_s1_d1B">
+		<en/>
+		<ge>Das war ja auch nur 'ne kleine Garage. Bei meiner Erfahrung mach' ich sowas mit links.</ge>
+	</entry>
+	<entry key="m0002_s1_d1C">
+		<en/>
+		<ge>Na gut. Jetzt wird's ein bisschen komplizierter. Wir bauen hier in der Neubausiedlung ein Reihenhaus. Eigentlich kein Problem, wir haben ja auch schon die anderen Häuser auf der anderen Straßenseite gebaut. Das lief bis jetzt stressfrei.</ge>
+	</entry>
+	<entry key="m0002_s1_d1D">
+		<en/>
+		<ge>Na, dann hoffen wir mal, dass alles so bleibt.</ge>
+	</entry>
+	<entry key="m0002_s1_d1E">
+		<en/>
+		<ge>Das hoffe ich auch. Aber genug geschnackt. Fang mal damit an, die Grube für das Fundament auszuheben. Diesmal gibt's auch einen großen Bagger dafür.</ge>
+	</entry>
+	<entry key="m0002_s2_name">
+		<en/>
+		<ge>Fundament gießen</ge>
+	</entry>
+	<entry key="m0002_s2_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Baugrube und sichere das Fahrzeug mit den Stützen
+
+2. Fülle den Betonmischer im Betonwerk unter dem Abfüllstutzen auf
+
+3. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über den Einfülltrichter der Betonpumpe
+
+4. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+5. Fülle mit der Betonpumpe die Fundamentverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0002_s2_d1A">
+		<en/>
+		<ge>Ok. Die Grube ist ausgehoben und die Kollegen haben schon die Verschalung für das Fundament gebaut. Hast du schon mal ein Fundament mit der Betonpumpe gegossen?</ge>
+	</entry>
+	<entry key="m0002_s2_d1B">
+		<en/>
+		<ge>Bis jetzt noch nicht. Sollte aber nicht allzu kompliziert sein. Oder?</ge>
+	</entry>
+	<entry key="m0002_s2_d1C">
+		<en/>
+		<ge>Nee, passt schon. Zunächst musst du die Betonpumpe richtig parken und mit den Stützen sichern. Dann fährst du von hinten mit dem Betonmischer an die Pumpe ran, so dass das Betonrohr über dem Einfülltrichter der Pumpe ist. Das Rohr kannst du übrigens auch schwenken. Dann noch die Trommel in die richtige Richtung drehen und schon fließt der Beton. Jetzt kannst du mit der Pumpe das Fundament gleichmäßig füllen.</ge>
+	</entry>
+	<entry key="m0002_s2_d1D">
+		<en/>
+		<ge>Ok. Das bekomme ich schon hin. Ansonsten schau ich nochmal in den Handbüchern nach. Da steht ja bestimmt auch was drin.</ge>
+	</entry>
+	<entry key="m0002_s2_d1E">
+		<en/>
+		<ge>Die Handbücher hat wahrscheinlich eh schon wieder jemand geklaut. Aber da wird schon irgendwo was stehen. Viel Erfolg.</ge>
+	</entry>
+	<entry key="m0002_s3_name">
+		<en/>
+		<ge>Erdgeschoss Wände setzen</ge>
+	</entry>
+	<entry key="m0002_s3_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Fertigbauwände auf den dafür vorgesehenen Platz</ge>
+	</entry>
+	<entry key="m0002_s3_d1A">
+		<en/>
+		<ge>Na siehste, das lief doch super mit der Betonpumpe. Beim nächsten Mal bist du damit dann noch schneller.</ge>
+	</entry>
+	<entry key="m0002_s3_d1B">
+		<en/>
+		<ge>Jo. War schon ganz in Ordnung. Was passiert nun als Nächstes?</ge>
+	</entry>
+	<entry key="m0002_s3_d1C">
+		<en/>
+		<ge>Gerade sind die Tieflader mit den Fertigbauwänden angekommen. Die müssen mit dem Autokran gesetzt werden. Mach' nicht zu viel Lärm, die Kollegen sind die Nacht durchgefahren und haben sich erstmal hingelegt.</ge>
+	</entry>
+	<entry key="m0002_s3_d1D">
+		<en/>
+		<ge>Alles klar, ich gebe mein Bestes. Werde dann erstmal den Kran in die passende Position parken.</ge>
+	</entry>
+	<entry key="m0002_s3_d1E">
+		<en/>
+		<ge>Genau, mach' das. Und nicht vergessen, den Kran mit den Stützen zu sichern, bevor's losgeht.</ge>
+	</entry>
+	<entry key="m0002_s4_name">
+		<en/>
+		<ge>1. Stock Wände setzen</ge>
+	</entry>
+	<entry key="m0002_s4_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Fertigbauwände auf den dafür vorgesehenen Platz</ge>
+	</entry>
+	<entry key="m0002_s4_d1A">
+		<en/>
+		<ge>Ok, hopp, hopp, hopp. Die zweite Fuhre mit den Wänden für den ersten Stock ist gerade eingetroffen. Dann kann's direkt weitergehen.</ge>
+	</entry>
+	<entry key="m0002_s4_d1B">
+		<en/>
+		<ge>Oh mann, kann das keiner vorher sagen? Jetzt habe ich gerade den Kran schon wieder transportfähig gemacht und alles eingepackt.</ge>
+	</entry>
+	<entry key="m0002_s4_d1C">
+		<en/>
+		<ge>Sorry. Hatte ich vergessen zu erwähnen. Aber wir müssen uns beeilen. Familie Nold, die hier bald einzieht, drängt auf eine pünktliche Fertigstellung. Jeden Abend gibt's hier einen Kontrollgang vom zukünftigen Hausherren. Da muss alles hundertprozentig passen!</ge>
+	</entry>
+	<entry key="m0002_s4_d1D">
+		<en/>
+		<ge>Na, der soll sich mal nicht so anstellen. Wird schon alles rechtzeitig fertig.</ge>
+	</entry>
+	<entry key="m0002_s5_name">
+		<en/>
+		<ge>Ziegel setzen</ge>
+	</entry>
+	<entry key="m0002_s5_tasks">
+		<en/>
+		<ge>1. Fahre mit dem Laster zum Baustoffhandel
+
+2. Belade den Laster mit den Ziegelpaletten. Der Gabelstapler steht schon bereit. Vergiss nicht, die Paletten danach auf dem Laster zu sichern
+
+3. Fahre die Paletten zur Baustelle
+
+4. Parke und sichere den Kran und hebe die Paletten auf die korrekte Position auf dem Dach</ge>
+	</entry>
+	<entry key="m0002_s5_d1A">
+		<en/>
+		<ge>Ok, super. Bald haben wir's geschafft. Es fehlen nur noch die Dachziegel. Aber mach dir keinen Stress: Das Setzen der Ziegel erledigen morgen die Dachdecker. Du musst nur noch die Ziegelpaletten beim Baustoffhandel holen und aufs Dach heben.</ge>
+	</entry>
+	<entry key="m0002_s5_d1B">
+		<en/>
+		<ge>Können die das nicht selber holen? Eigentlich wollte ich schon Feierabend machen.</ge>
+	</entry>
+	<entry key="m0002_s5_d1C">
+		<en/>
+		<ge>Normalerweise machen die Jungs das auch selber. Aber ich schulde denen noch einen Gefallen. Und deswegen musst du jetzt ran. Schnapp' dir den Laster und fahre zum Baustoffhandel im Industriegebiet. Wahrscheinlich ist da um die Uhrzeit schon keiner mehr. Die Paletten stehen aber schon bereit und der Gabelstapler ist auch nie abgeschlossen. Bediene dich einfach, ist alles mit Kalle vom Baustoffhandel abgesprochen. Dann fahr' die Paletten hierher und hebe sie mit dem Kran aufs Dach. Die Jungs können dann morgen direkt weitermachen. Und vergiss nicht, die Palette nach dem Aufladen auf dem Laster zu sichern.</ge>
+	</entry>
+	<entry key="m0002_s5_d1D">
+		<en/>
+		<ge>Na gut, aber danach geh' ich nach Hause. Ich freue mich schon auf mein Feierabend-Bier.</ge>
+	</entry>
+	<entry key="m0002_s5_d2A">
+		<en/>
+		<ge>Ja, super. Da hat ja noch alles gut geklappt. Jetzt können die Dachdecker morgen direkt alles fertig machen. </ge>
+	</entry>
+	<entry key="m0002_s5_d2B">
+		<en/>
+		<ge>Jo. Und ich kann jetzt endlich nach Hause gehen. Für heute reicht's mir.</ge>
+	</entry>
+	<entry key="m0002_s5_d2C">
+		<en/>
+		<ge>Klar, mach' das. Gute Arbeit übrigens. So Jungs wie dich können wir hier echt gut gebrauchen. Ich warte hier noch auf Herrn Nold. Der sollte mit der Arbeit heute wirklich zufrieden sein. Ich glaube, wir können das zugesagte Fertigstellungsdatum einhalten.</ge>
+	</entry>
+	<entry key="m0002_s5_d2D">
+		<en/>
+		<ge>Na, dann noch viel Spaß und bis morgen.</ge>
+	</entry>
+	<entry key="m0003_name">
+		<en/>
+		<ge>Schwimmbad bauen</ge>
+	</entry>
+	<entry key="m0003_owner">
+		<en/>
+		<ge>Stadt</ge>
+	</entry>
+	<entry key="m0003_costs">
+		<en/>
+		<ge>1.000.000 €</ge>
+	</entry>
+	<entry key="m0003_s1_name">
+		<en/>
+		<ge>Becken ausheben (oben)</ge>
+	</entry>
+	<entry key="m0003_s1_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich für das Schwimmbecken aus</ge>
+	</entry>
+	<entry key="m0003_s1_d1A">
+		<en/>
+		<ge>Guten Morgen, Fritz. Ich hoffe, du hast gut geschlafen. Heute gibt's ordentlich was zu tun. </ge>
+	</entry>
+	<entry key="m0003_s1_d1B">
+		<en/>
+		<ge>Was steht denn heute an? Warum treffen wir uns hier mitten im Wald?</ge>
+	</entry>
+	<entry key="m0003_s1_d1C">
+		<en/>
+		<ge>Hast du denn die Zeitung nicht gelesen? Hier entsteht das neue Waldschwimmbad für unsere Stadt. Und unser Bauunternehmen hat den Zuschlag bekommen, das gesamte Projekt zu realisieren.</ge>
+	</entry>
+	<entry key="m0003_s1_d1D">
+		<en/>
+		<ge>Ok. Das ist ja klasse. Ich hoffe, da werden in Zukunft ein paar Freikarten drin sein.</ge>
+	</entry>
+	<entry key="m0003_s1_d1E">
+		<en/>
+		<ge>Mal abwarten, erstmal müssen wir das Ding bauen. Ich habe heute morgen schon den Bagger geholt. Du kannst jetzt anfangen, das Schwimmbecken auszuheben. Das ist 'ne Menge Arbeit, also leg' gleich mal los.</ge>
+	</entry>
+	<entry key="m0003_s1_d1F">
+		<en/>
+		<ge>Alles klar. Ich beeile mich.</ge>
+	</entry>
+	<entry key="m0003_s2_name">
+		<en/>
+		<ge>Becken ausheben (unten)</ge>
+	</entry>
+	<entry key="m0003_s2_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich für das Schwimmbecken aus</ge>
+	</entry>
+	<entry key="m0003_s2_d1A">
+		<en/>
+		<ge>Ok. Die eine Hälfte ist abgetragen. Jetzt können wir anfangen, die andere Seite auszugraben.</ge>
+	</entry>
+	<entry key="m0003_s2_d1B">
+		<en/>
+		<ge>Nochmal soviel? Na gut. Dann lass uns gleich mal mit dem Bagger weitergraben. Was kommt denn dann eigentlich?</ge>
+	</entry>
+	<entry key="m0003_s2_d1C">
+		<en/>
+		<ge>Nachdem das Becken richtig ausgehoben ist, werden der Boden und die Ränder betoniert. Da hol' ich gleich schon mal den Beton mit dem Mixer.</ge>
+	</entry>
+	<entry key="m0003_s2_d1D">
+		<en/>
+		<ge>Na dann mal los …</ge>
+	</entry>
+	<entry key="m0003_s3_name">
+		<en/>
+		<ge>Großes Becken gießen</ge>
+	</entry>
+	<entry key="m0003_s3_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Beckengrube und sichere das Fahrzeug mit den Stützen
+
+2. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über den Einfülltrichter der Betonpumpe
+
+3. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+4. Fülle mit der Betonpumpe die Fundamentverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0003_s3_d1A">
+		<en/>
+		<ge>Na, das lief doch ganz gut. Ich habe in der Zwischenzeit auch schon das zweite Becken ausgehoben.</ge>
+	</entry>
+	<entry key="m0003_s3_d1B">
+		<en/>
+		<ge>Boah ey, das war 'ne Menge Arbeit. Hat echt lange gedauert, aber jetzt ist es ja fertig. Wie geht's denn jetzt weiter?</ge>
+	</entry>
+	<entry key="m0003_s3_d1C">
+		<en/>
+		<ge>Du musst mit der Betonpumpe und dem Betonmischer die Bodenplatte vom Becken gießen. Während du 'ne Pause gemacht hast, haben die Kollegen schon die entsprechende Verschalung gesetzt. Wie das genau läuft, weißt du ja inzwischen bereits. Fang' mal mit dem großen Becken an, danach kommt das kleine.</ge>
+	</entry>
+	<entry key="m0003_s3_d1D">
+		<en/>
+		<ge>Na, dann mal los!</ge>
+	</entry>
+	<entry key="m0003_s4_name">
+		<en/>
+		<ge>Kleines Becken gießen</ge>
+	</entry>
+	<entry key="m0003_s4_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Beckengrube und sichere das Fahrzeug mit den Stützen
+
+2. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+3. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+4. Fülle mit der Betonpumpe die Fundamentverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0003_s4_d1A">
+		<en/>
+		<ge>Ok, klasse. Lief wie immer ohne Probleme!</ge>
+	</entry>
+	<entry key="m0003_s4_d1B">
+		<en/>
+		<ge>Ja, passt. Hab' ja auch inzwischen schon ein bisschen Erfahrung mit der Betonpumpe. Jetzt reicht's aber auch für heute. Ich freu' mich auf mein Feierabend-Bier.</ge>
+	</entry>
+	<entry key="m0003_s4_d1C">
+		<en/>
+		<ge>Waaas? Das muss noch warten. Damit du nicht aus der Übung kommst, kannst du gleich auch noch das kleine Schwimmbecken gießen. Jeder Tag, den wir hier gewinnen, kostet uns weniger Miete für die Baufahrzeuge. Außerdem muss danach auch noch die Beckenwand gegossen werden. Aber du kriegst das schon hin.</ge>
+	</entry>
+	<entry key="m0003_s4_d1D">
+		<en/>
+		<ge>Na gut, überredet. Dann mal frisch ans Werk.</ge>
+	</entry>
+	<entry key="m0003_s5_name">
+		<en/>
+		<ge>Beckenwand gießen</ge>
+	</entry>
+	<entry key="m0003_s5_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Beckengrube und sichere das Fahrzeug mit den Stützen
+
+2. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+3. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+4. Fülle mit der Betonpumpe die Fundamentverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0003_s5_d1A">
+		<en/>
+		<ge>So, wie schon angekündigt fehlen jetzt nur noch die Beckenwände.</ge>
+	</entry>
+	<entry key="m0003_s5_d1B">
+		<en/>
+		<ge>Alles klar, dann lass' uns nicht quatschen, sondern direkt weitermachen. Ich freu' mich schon drauf, wenn das Schwimmbad fertig ist. Dann können wir unseren Feierabend in Zukunft hier auf der Liegewiese verbringen.</ge>
+	</entry>
+	<entry key="m0003_s5_d1C">
+		<en/>
+		<ge>Genau. Und der Bürgermeister hat uns auch schon ein paar Freikarten zugesagt. Na, dann park' schon mal die Betonpumpe um und platziere den Betonmischer entsprechend. Dann sind wir ja auch bald fertig.</ge>
+	</entry>
+	<entry key="m0003_s5_d1D">
+		<en/>
+		<ge>Alles klar. Los geht's.</ge>
+	</entry>
+	<entry key="m0003_s5_d2A">
+		<en/>
+		<ge>Super. Für heute sind wir fertig. Komm, wir gehen ein Bier trinken. Die Kollegen können noch ein bisschen aufräumen und die Baustelle in Ordnung bringen.</ge>
+	</entry>
+	<entry key="m0003_s5_d2B">
+		<en/>
+		<ge>Super. Da hab' ich mich schon den ganzen Tag drauf gefreut.</ge>
+	</entry>
+	<entry key="m0003_s5_d2C">
+		<en/>
+		<ge>Los geht's.</ge>
+	</entry>
+	<entry key="m0004_name">
+		<en/>
+		<ge>Ziegelhaus bauen</ge>
+	</entry>
+	<entry key="m0004_owner">
+		<en/>
+		<ge>Frau Wagner</ge>
+	</entry>
+	<entry key="m0004_costs">
+		<en/>
+		<ge>360.000 €</ge>
+	</entry>
+	<entry key="m0004_s1_name">
+		<en/>
+		<ge>Fundament ausheben</ge>
+	</entry>
+	<entry key="m0004_s1_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich für das Fundament aus</ge>
+	</entry>
+	<entry key="m0004_s1_d1A">
+		<en/>
+		<ge>Hallo Fritz. Na, hast du gut geschlafen? Du wirst heute deine Kräfte brauchen.</ge>
+	</entry>
+	<entry key="m0004_s1_d1B">
+		<en/>
+		<ge>Oh Mann! Ich glaube, gestern haben wir ein oder zwei Bier zu viel getrunken. Aber ich will nicht rumjammern, da muss ich jetzt durch. Was steht denn heute an?</ge>
+	</entry>
+	<entry key="m0004_s1_d1C">
+		<en/>
+		<ge>Frau Wagner hat vor kurzem geheiratet und die junge Familie will nun ein Haus bauen. Wir starten also erstmal mit dem Fundament. Ich habe heute Morgen schon den Bagger vom Verleih geholt. Starte schon mal mit der Baugrube und ich hole in der Zwischenzeit den Betonmischer und die Betonpumpe.</ge>
+	</entry>
+	<entry key="m0004_s1_d1D">
+		<en/>
+		<ge>Alles klar. Dann hoffe ich mal, dass mit meinem dicken Schädel nichts schiefgeht.</ge>
+	</entry>
+	<entry key="m0004_s1_d1E">
+		<en/>
+		<ge>Na, das hoffe ich auch.</ge>
+	</entry>
+	<entry key="m0004_s2_name">
+		<en/>
+		<ge>Fundament gießen</ge>
+	</entry>
+	<entry key="m0004_s2_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Baugrube und sichere das Fahrzeug mit den Stützen
+
+2. Fülle den Betonmischer im Betonwerk unter dem Abfüllstutzen auf
+
+3. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+4. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+5. Fülle mit der Betonpumpe die Fundamentverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0004_s2_d1A">
+		<en/>
+		<ge>Ok. Frau Wagner macht ein bisschen Stress. Deswegen machen wir gleich mit dem Fundament weiter. </ge>
+	</entry>
+	<entry key="m0004_s2_d1B">
+		<en/>
+		<ge>Na, die soll sich mal beruhigen. Bisher haben wir immer alles gut hinbekommen. Langsam wird mein Kopf wieder klarer. Dann arbeitet es sich auch doppelt so gut. Ich sehe, du hast ja auch schon die Betonpumpe und den Mischer geholt. Dann kann's ja gleich weitergehen.</ge>
+	</entry>
+	<entry key="m0004_s2_d1C">
+		<en/>
+		<ge>Genau. Ich rede nochmal mit der guten Frau und sichere zu, dass wir voll im Plan liegen. Du gießt bitte in der Zwischenzeit das Fundament. Ach so, der Mischer ist noch leer. Du must also erstmal Beton im Betonwerk holen. Du brauchst dort einfach nur unter den Abfüllstutzen zu fahren. Die Jungs drinnen sehen dich dann schon und drehen den Hahn auf. Alles klar soweit?</ge>
+	</entry>
+	<entry key="m0004_s2_d1D">
+		<en/>
+		<ge>Na klar. Kannst dich auf mich verlassen. Das Fundament wird hier schon bald fertig sein.</ge>
+	</entry>
+	<entry key="m0004_s3_name">
+		<en/>
+		<ge>Wandziegel setzen</ge>
+	</entry>
+	<entry key="m0004_s3_tasks">
+		<en/>
+		<ge>1. Fahre mit dem Laster zum Baustoffhandel
+
+2. Belade den Laster mit den Wandziegeln. Der Gabelstapler steht schon bereit. Vergiss nicht, die Paletten danach auf dem Laster zu sichern.
+
+3. Fahre die Paletten zur Baustelle.
+
+4. Parke und sichere den Kran und hebe die Paletten auf die korrekte Position.</ge>
+	</entry>
+	<entry key="m0004_s3_d1A">
+		<en/>
+		<ge>Ok. Frau Wagner ist sehr zufrieden mit unserer Arbeit. Wenn alles gut läuft, gibt's heute Abend auch einen Kuchen bei ihr.</ge>
+	</entry>
+	<entry key="m0004_s3_d1B">
+		<en/>
+		<ge>Kuchen ist super. Wie machen wir denn jetzt hier weiter?</ge>
+	</entry>
+	<entry key="m0004_s3_d1C">
+		<en/>
+		<ge>Gleich kommen die Maurer-Kollegen. Für die holen wir jetzt erstmal die Wandziegel beim Baustoffhandel. Du warst ja schon mal da und weißt, wie's läuft. Hat beim letzten Mal alles mit dem Gabelstapler geklappt oder hast du ein Chaos veranstaltet?</ge>
+	</entry>
+	<entry key="m0004_s3_d1D">
+		<en/>
+		<ge>Ich und Chaos? Niemals. So einen kleinen Gabelstapler fahr' ich doch mit links.</ge>
+	</entry>
+	<entry key="m0004_s3_d1E">
+		<en/>
+		<ge>Ja klar. War ja auch nur ein Spaß. Na, dann fahr' mal los und hol' die Dachziegel. Und nicht vergessen die Ladung immer gut zu sichern.</ge>
+	</entry>
+	<entry key="m0004_s4_name">
+		<en/>
+		<ge>Zwischendecke gießen</ge>
+	</entry>
+	<entry key="m0004_s4_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Baustelle und sichere das Fahrzeug mit den Stützen
+
+2. Fülle den Betonmischer im Betonwerk unter dem Abfüllstutzen auf
+
+3. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+4. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+5. Fülle mit der Betonpumpe die Deckenverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0004_s4_d1A">
+		<en/>
+		<ge>Alles klar, die Maurer sind schneller fertig geworden als erwartet. Das bedeutet, dass wir schon direkt weitermachen können. Als Nächstes gießen wir die Zwischendecke zum 1. Stock. </ge>
+	</entry>
+	<entry key="m0004_s4_d1B">
+		<en/>
+		<ge>Ok. Brauchen wir noch Beton oder ist der schon da?</ge>
+	</entry>
+	<entry key="m0004_s4_d1C">
+		<en/>
+		<ge>Ich habe gerade schon die Kollegen übers Handy erreicht und Bescheid gesagt. Gerade eben haben die Jungs schon die Betonpumpe und den Mischer gebracht. Du musst nur nochmal los und den Mischer auffüllen lassen. Du weißt ja jetzt, wie's läuft.</ge>
+	</entry>
+	<entry key="m0004_s4_d1D">
+		<en/>
+		<ge>Na, dann mal frisch ans Werk.</ge>
+	</entry>
+	<entry key="m0004_s5_name">
+		<en/>
+		<ge>Wandziegel setzen</ge>
+	</entry>
+	<entry key="m0004_s5_tasks">
+		<en/>
+		<ge>1. Fahre mit dem Laster zum Baustoffhandel
+
+2. Belade den Laster mit den Wandziegeln. Der Gabelstapler steht schon bereit. Vergiss nicht, die Paletten danach auf dem Laster zu sichern.
+
+3. Fahre die Paletten zur Baustelle.
+
+4. Parke und sichere den Kran und hebe die Paletten auf die korrekte Position.</ge>
+	</entry>
+	<entry key="m0004_s5_d1A">
+		<en/>
+		<ge>Super. Das klappt ja schon richtig gut.</ge>
+	</entry>
+	<entry key="m0004_s5_d1B">
+		<en/>
+		<ge>Klar, was denkst du denn? Mit Betonmischer und der Pumpe kenn' ich mich nun schon richtig gut aus.</ge>
+	</entry>
+	<entry key="m0004_s5_d1C">
+		<en/>
+		<ge>Sehr gut. Genau so Leute brauchen wir. Jetzt wiederholt sich das Spiel und wir brauchen die Wandziegel für den 2. Stock. Also wieder auf zum Baustoffhandel.</ge>
+	</entry>
+	<entry key="m0004_s5_d1D">
+		<en/>
+		<ge>Alles klar, ich schnapp' mir schnell den Laster und hol' die Paletten.</ge>
+	</entry>
+	<entry key="m0004_s5_d1E">
+		<en/>
+		<ge>Genauso machen wir das!</ge>
+	</entry>
+	<entry key="m0004_s6_name">
+		<en/>
+		<ge>Zwischendecke gießen</ge>
+	</entry>
+	<entry key="m0004_s6_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Baustelle und sichere das Fahrzeug mit den Stützen
+
+2. Fülle den Betonmischer im Betonwerk unter dem Abfüllstutzen auf
+
+3. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+4. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+5. Fülle mit der Betonpumpe die Deckenverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0004_s6_d1A">
+		<en/>
+		<ge>Das geht hier richtig gut voran. Das wird Frau Wagner freuen.</ge>
+	</entry>
+	<entry key="m0004_s6_d1B">
+		<en/>
+		<ge>Was ist denn eigentlich mit Herrn Wagner? Hat der sich auch schon mal blicken lassen?</ge>
+	</entry>
+	<entry key="m0004_s6_d1C">
+		<en/>
+		<ge>Der arbeitet in so einer kleinen IT-Bude und hat wahnsinnig viel Stress. Aber die Dame des Hauses hat das hier schon alles ganz gut im Griff.</ge>
+	</entry>
+	<entry key="m0004_s6_d1D">
+		<en/>
+		<ge>Na gut. Was kommt denn jetzt als nächstes? Ich schätze, mal die nächste Zwischendecke muss gegossen werden.</ge>
+	</entry>
+	<entry key="m0004_s6_d1E">
+		<en/>
+		<ge>Genau. Der Betonmischer ist bereits leer, deswegen solltest du ihn beim Betonwerk erneut auffüllen.</ge>
+	</entry>
+	<entry key="m0004_s6_d1F">
+		<en/>
+		<ge>Alles klar, Chef. Ich mach mich dann mal auf den Weg.</ge>
+	</entry>
+	<entry key="m0004_s7_name">
+		<en/>
+		<ge>Dachstuhl setzen</ge>
+	</entry>
+	<entry key="m0004_s7_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Dachstuhlteile auf den dafür vorgesehenen Platz</ge>
+	</entry>
+	<entry key="m0004_s7_d1A">
+		<en/>
+		<ge>Super. Das ging wie immer zuverlässig und schnell. Gerade kam auch die Lieferung mit den einzelnen Elementen für den Dachstuhl.</ge>
+	</entry>
+	<entry key="m0004_s7_d1B">
+		<en/>
+		<ge>Sind die schon fertig montiert?</ge>
+	</entry>
+	<entry key="m0004_s7_d1C">
+		<en/>
+		<ge>Die kommen schon vormontiert hier an, so dass diese hier nur noch entsprechend untereinander verschraubt und befestigt werden müssen. Das spart uns auf der Baustelle einiges an Zeit. Wir müssen jetzt nur noch die einzelnen Elemente mit dem Autokran aufs Dach heben.</ge>
+	</entry>
+	<entry key="m0004_s7_d1D">
+		<en/>
+		<ge>Alles klar, sollte kein Problem sein. Ich fang' gleich mal an.</ge>
+	</entry>
+	<entry key="m0004_s7_d1E">
+		<en/>
+		<ge>Mach' das. Aber sei vorsichtig. Bei dieser Aufgabe ist viel Fingerspitzengefühl gefragt, also mach' keine hektischen Bewegungen mit dem Kran. Sonst geht das schief.</ge>
+	</entry>
+	<entry key="m0004_s7_d1F">
+		<en/>
+		<ge>Klar. Kannst dich auf mich verlassen.</ge>
+	</entry>
+	<entry key="m0004_s7_d2A">
+		<en/>
+		<ge>Gut. Der Dachstuhl steht. Dann können gleich die Dachdecker weitermachen. Wir sind erstmal fertig für heute.</ge>
+	</entry>
+	<entry key="m0004_s7_d2B">
+		<en/>
+		<ge>Da haben wir uns den Feierabend richtig verdient. Was ist eigentlich mit dem Kuchen von Frau Wagner?</ge>
+	</entry>
+	<entry key="m0004_s7_d2C">
+		<en/>
+		<ge>Genau da gehen wir jetzt hin, erzählen, wie der aktuelle Stand ist und essen ein Stück Kuchen.</ge>
+	</entry>
+	<entry key="m0004_s7_d2D">
+		<en/>
+		<ge>Super. Na, dann mal los.</ge>
+	</entry>
+	<entry key="m0005_name">
+		<en/>
+		<ge>Windrad errichten</ge>
+	</entry>
+	<entry key="m0005_owner">
+		<en/>
+		<ge>Nordwind Energie AG</ge>
+	</entry>
+	<entry key="m0005_costs">
+		<en/>
+		<ge>785.000 €</ge>
+	</entry>
+	<entry key="m0005_s1_name">
+		<en/>
+		<ge>Untergrund verdichten</ge>
+	</entry>
+	<entry key="m0005_s1_tasks">
+		<en/>
+		<ge>1. Fahre mit der Walze den abgesteckten Bereich ab, um den Untergrund zu verdichten.</ge>
+	</entry>
+	<entry key="m0005_s1_d1A">
+		<en/>
+		<ge>Hallo Fritz. Die Nordwind Energie AG expandiert gerade ordentlich  und baut hier ein neues Windrad hin.</ge>
+	</entry>
+	<entry key="m0005_s1_d1B">
+		<en/>
+		<ge>Morgen Chef, na, die Dinger sieht man ja inzwischen immer häufiger. Lohnt sich das denn?</ge>
+	</entry>
+	<entry key="m0005_s1_d1C">
+		<en/>
+		<ge>Klar. Ein einzelnes Windrad alleine natürlich nicht, aber in der Masse können die schon ganz gut Energie produzieren. So langsam müssen wir ja auch mal auf alternative Energien umsteigen. Immer nur Atom- und Kohlekraft ist ja auch nicht gerade das Gelbe vom Ei.</ge>
+	</entry>
+	<entry key="m0005_s1_d1D">
+		<en/>
+		<ge>Stimmt, hast recht. Na, dann mal los. Womit fangen wir denn an?</ge>
+	</entry>
+	<entry key="m0005_s1_d1E">
+		<en/>
+		<ge>Erstmal verdichten wir hier den Untergrund. Wenn später der Autokran kommt, brauchen wir hier ein festes Erdreich, so dass er ordentlich gesichert ist.</ge>
+	</entry>
+	<entry key="m0005_s1_d1F">
+		<en/>
+		<ge>Muss ich was Spezielles bei der Walze beachten?</ge>
+	</entry>
+	<entry key="m0005_s1_d1G">
+		<en/>
+		<ge>Eigentlich nicht. Nur die Lenkung ist etwas anders. Ansonsten einfach ruhig und gleichmäßig abfahren.</ge>
+	</entry>
+	<entry key="m0005_s2_name">
+		<en/>
+		<ge>Kabelgraben baggern</ge>
+	</entry>
+	<entry key="m0005_s2_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich aus, in dem später der Kabelkanal verlegt wird.</ge>
+	</entry>
+	<entry key="m0005_s2_d1A">
+		<en/>
+		<ge>Ok. Das lief ja super. Der Untergrund ist nun verdichtet und wir können später den Kran hier aufbauen.</ge>
+	</entry>
+	<entry key="m0005_s2_d1B">
+		<en/>
+		<ge>Genau. Und was machen wir in der Zwischenzeit?</ge>
+	</entry>
+	<entry key="m0005_s2_d1C">
+		<en/>
+		<ge>Wir brauchen noch einen Kabelgraben zwischen dem Windrad und dem kleinen Verteilerkasten da drüben. Schnapp' dir den kleinen Bagger und leg' schon mal los.</ge>
+	</entry>
+	<entry key="m0005_s2_d1D">
+		<en/>
+		<ge>Alles klar. Wird gemacht, Chef.</ge>
+	</entry>
+	<entry key="m0005_s3_name">
+		<en/>
+		<ge>Einzelteile setzen</ge>
+	</entry>
+	<entry key="m0005_s3_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Elemente des Windrads auf den dafür vorgesehenen Platz</ge>
+	</entry>
+	<entry key="m0005_s3_d1A">
+		<en/>
+		<ge>Ok. Jetzt wird's spannend. Eine Spezialfirma hat inzwischen die einzelnen Elemente des Windrads geliefert und hier schon vormontiert. Wir müssen nun das Windrad Stück für Stück zusammenbauen. Traust du dir das zu?</ge>
+	</entry>
+	<entry key="m0005_s3_d1B">
+		<en/>
+		<ge>Na klar. Wird auch nicht komplizierter sein als andere Kranarbeiten.</ge>
+	</entry>
+	<entry key="m0005_s3_d1C">
+		<en/>
+		<ge>Nimm das nicht zu sehr auf die leichte Schulter. Die einzelnen Elemente sind extrem teuer. Da darf nichts schief gehen. Du musst also äußerst vorsichtig und präzise arbeiten.</ge>
+	</entry>
+	<entry key="m0005_s3_d1D">
+		<en/>
+		<ge>Alles klar, Chef. Du kannst dich hundertprozentig auf mich verlassen. Lass' es uns angehen…</ge>
+	</entry>
+	<entry key="m0005_s3_d2A">
+		<en/>
+		<ge>Sehr gut. Das lief ja wie am Schnürchen. Und unsere Stadt bezieht jetzt unter anderem Energie aus diesem Windrad. </ge>
+	</entry>
+	<entry key="m0005_s3_d2B">
+		<en/>
+		<ge>Ja, zwischenzeitlich lief mir doch ein bisschen der Schweiß bei diesen riesigen Elementen. Aber es ist ja zum Glück alles gut gegangen.</ge>
+	</entry>
+	<entry key="m0005_s3_d2C">
+		<en/>
+		<ge>Genau. Ich glaub', da ruf' ich gleich mal meinen Kumpel bei den Lokalnachrichten an. Da machen wir eine schöne Erfolgsgeschichte draus. Mit Interview und so …</ge>
+	</entry>
+	<entry key="m0005_s3_d2D">
+		<en/>
+		<ge>Na, wenn du meinst. Aber nicht gleich größenwahnsinnig werden, weil du hier in den Lokalnachrichten auftauchst. Ich mach' für heute Feierabend. Viel Spaß und bis morgen.</ge>
+	</entry>
+	<entry key="m0006_name">
+		<en/>
+		<ge>Hafengebäude bauen</ge>
+	</entry>
+	<entry key="m0006_owner">
+		<en/>
+		<ge>Cargo-Hafen GmbH</ge>
+	</entry>
+	<entry key="m0006_costs">
+		<en/>
+		<ge>327.000 €</ge>
+	</entry>
+	<entry key="m0006_s1_name">
+		<en/>
+		<ge>Säulen gießen</ge>
+	</entry>
+	<entry key="m0006_s1_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an den vorbereiteten Verschalungen und sichere das Fahrzeug mit den Stützen
+
+2. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+3. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+4. Fülle mit der Betonpumpe die Säulenverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0006_s1_d1A">
+		<en/>
+		<ge>Hallo Fritz. Die Cargo-Hafen GmbH hat uns beauftragt, eine neue Lagerhalle für ihre Transportgüter zu bauen. Wir haben uns für eine relativ einfache Konstruktion in Leichtbauweise entschieden.</ge>
+	</entry>
+	<entry key="m0006_s1_d1B">
+		<en/>
+		<ge>Grüß dich, Hape. Das hört sich ja so an, als wenn sich das Ding von selbst aufbaut. </ge>
+	</entry>
+	<entry key="m0006_s1_d1C">
+		<en/>
+		<ge>Ganz so einfach ist es dann doch nicht. Wir müssen schon ein bisschen selbst Hand anlegen. Aber es sind schon alle wichtigen Komponenten angeliefert worden. Wir starten mit dem Aufbau der Säulen. Die werden mit der Betonpumpe gegossen, um anschließend die entsprechenden Wände daran befestigen zu können. Der Betonmischer ist bereits gefüllt.</ge>
+	</entry>
+	<entry key="m0006_s1_d1D">
+		<en/>
+		<ge>Ok. Also mal wieder das gleiche Spiel mit Betonmischer und Betonpumpe. So langsam beherrsche ich das ja im Schlaf. Na, dann mal los …</ge>
+	</entry>
+	<entry key="m0006_s2_name">
+		<en/>
+		<ge>Wände setzen</ge>
+	</entry>
+	<entry key="m0006_s2_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Wandelemente auf den dafür vorgesehenen Platz. Beachte dabei die richtige Reihenfolge, das aktuelle Element ist mit einem gelben Kranhaken markiert.</ge>
+	</entry>
+	<entry key="m0006_s2_d1A">
+		<en/>
+		<ge>Super! Die Säulen stehen und der Beton ist inzwischen ausgehärtet. Wir können also anfangen, die Wandelemente zu befestigen. Die Kollegen sind gerade schon angekommen und haben die fertigen Elemente geliefert. Du musst mal schauen, irgendwo ist die erste Seitenwand markiert.</ge>
+	</entry>
+	<entry key="m0006_s2_d1B">
+		<en/>
+		<ge>Ok. Der Baukran steht auch schon bereit. Ich würde, sagen wir legen direkt los, um keine Zeit zu verschwenden.</ge>
+	</entry>
+	<entry key="m0006_s2_d1C">
+		<en/>
+		<ge>Deine Einstellung ist wie immer super. Wenn wir uns beeilen, bekommen wir die Halle pünktlich fertig und die Cargo Hafen GmbH kann zum geplanten Termin die Halle verwenden.</ge>
+	</entry>
+	<entry key="m0006_s2_d1D">
+		<en/>
+		<ge>Alles klar. Ich parke und sichere den Kran schon mal und dann kann's losgehen. Die Elemente werden ja einfach verschraubt. Da sollte es keine Probleme geben.</ge>
+	</entry>
+	<entry key="m0006_s3_name">
+		<en/>
+		<ge>Dachkonstruktion setzen</ge>
+	</entry>
+	<entry key="m0006_s3_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Dachelemente auf den dafür vorgesehenen Platz</ge>
+	</entry>
+	<entry key="m0006_s3_d1A">
+		<en/>
+		<ge>Ok. Lass' uns schnell noch das Dach draufsetzen. Noch scheint die Sonne. Das sollten wir ausnutzen, um so weit wie möglich voranzukommen.</ge>
+	</entry>
+	<entry key="m0006_s3_d1B">
+		<en/>
+		<ge>Oder wir nutzen das schöne Wetter, um ins Freibad zu fahren. Das hat doch Anfang der Woche eröffnet. Wir müssen ja auch mal unsere Freikarten einlösen. Nicht, dass die noch verfallen.</ge>
+	</entry>
+	<entry key="m0006_s3_d1C">
+		<en/>
+		<ge>Sorry, Fritz. Erst die Arbeit, dann das Vergnügen. Das Freibad muss noch ein bisschen warten. Zuerst müssen wir noch die Dachelemente der Halle setzen. Dann haben wir's aber auch für heute geschafft.</ge>
+	</entry>
+	<entry key="m0006_s3_d1D">
+		<en/>
+		<ge>Na gut. Dann lass' uns jetzt nochmal ordentlich anpacken, damit wir das Dach gesetzt bekommen. Aber danach geht's ab ins Freibad.</ge>
+	</entry>
+	<entry key="m0006_s3_d2A">
+		<en/>
+		<ge>Super! Die Halle steht und alle Beteiligten sind zufrieden. Dickes Lob auch von unserem Chef. </ge>
+	</entry>
+	<entry key="m0006_s3_d2B">
+		<en/>
+		<ge>Danke, danke. Wenn der Chef so zufrieden ist, kann ich demnächst ja mal nach einer Gehaltserhöhung fragen.</ge>
+	</entry>
+	<entry key="m0006_s3_d2C">
+		<en/>
+		<ge>Na, mal nicht übermütig werden. Aber wenn's so gut bei uns weitergeht, wird da bestimmt auch mal was für dich rausspringen.</ge>
+	</entry>
+	<entry key="m0006_s3_d2D">
+		<en/>
+		<ge>Na, das will ich doch hoffen. Aber nun genug vom Geschäft geredet. Ab ins Freibad. Kommste mit?</ge>
+	</entry>
+	<entry key="m0006_s3_d2E">
+		<en/>
+		<ge>Klar. Ich fahr' noch kurz zuhause vorbei und sammel meine Frau und die Kinder ein und dann geht's ab ins Schwimmbad.</ge>
+	</entry>
+	<entry key="m0007_name">
+		<en/>
+		<ge>Erschließungsmission</ge>
+	</entry>
+	<entry key="m0007_owner">
+		<en/>
+		<ge>Stadt</ge>
+	</entry>
+	<entry key="m0007_costs">
+		<en/>
+		<ge>128.000 €</ge>
+	</entry>
+	<entry key="m0007_s1_name">
+		<en/>
+		<ge>Graben ausheben</ge>
+	</entry>
+	<entry key="m0007_s1_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich aus, in dem später die Rohre verlegt werden.</ge>
+	</entry>
+	<entry key="m0007_s1_d1A">
+		<en/>
+		<ge>Hallo Fritz.</ge>
+	</entry>
+	<entry key="m0007_s1_d1B">
+		<en/>
+		<ge>Guten Morgen, Hape. Und? Gehen wir heute Abend wieder ins Schwimmbad?</ge>
+	</entry>
+	<entry key="m0007_s1_d1C">
+		<en/>
+		<ge>Nee, heute wird ein langer Arbeitstag. Die Stadt plant hier ein Neubaugebiet, das noch erschlossen werden muss. Wir werden heute eine neue Abwasserleitung verlegen. Das bedeutet, dass wir zuerst den Graben ausheben, dann die Rohre verlegen und später den Bereich wieder verdichten müssen. Alles klar soweit?</ge>
+	</entry>
+	<entry key="m0007_s1_d1D">
+		<en/>
+		<ge>Alles klar, Chef. Dann schnapp' ich mir den Bagger und hebe schon mal den Graben für die Rohre aus.</ge>
+	</entry>
+	<entry key="m0007_s2_name">
+		<en/>
+		<ge>Rohre verlegen</ge>
+	</entry>
+	<entry key="m0007_s2_tasks">
+		<en/>
+		<ge>1. Verwende den Frontlader, um die einzelnen Rohre in den ausgehobenen Bereich abzulegen.</ge>
+	</entry>
+	<entry key="m0007_s2_d1A">
+		<en/>
+		<ge>Ok. Das klappt ja wie am Schnürchen. Jetzt kommt der Frontlader zum Einsatz. Mit dem musst du die einzelnen Rohre greifen und an die entsprechende Stelle in den ausgehobenen Graben lassen.</ge>
+	</entry>
+	<entry key="m0007_s2_d1B">
+		<en/>
+		<ge>Ok. Hört sich nicht so kompliziert an. Muss ich noch irgendwas Spezielles beachten?</ge>
+	</entry>
+	<entry key="m0007_s2_d1C">
+		<en/>
+		<ge>Achte immer darauf, dass du die Rohre gut mit dem Greifarm gesichert hast, bevor du losfährst. Außerdem ist die Lenkung des Frontladers etwas gewöhnungsbedürftig, man kann nur während der Fahrt lenken. Aber das solltest du schnell rausfinden.</ge>
+	</entry>
+	<entry key="m0007_s2_d1D">
+		<en/>
+		<ge>Alles klar. Bekomm' ich schon hin. Dann mal los …</ge>
+	</entry>
+	<entry key="m0007_s3_name">
+		<en/>
+		<ge>Boden verdichten</ge>
+	</entry>
+	<entry key="m0007_s3_tasks">
+		<en/>
+		<ge>1. Fahre mit der Walze den abgesteckten Bereich ab, um den Untergrund zu verdichten.</ge>
+	</entry>
+	<entry key="m0007_s3_d1A">
+		<en/>
+		<ge>Gut! Während du Pause gemacht hast, habe ich den Graben wieder geschlossen. Jetzt muss nur noch das Erdreich verdichtet werden. Benutze dafür die Walze und fahre damit den abgesteckten Bereich ab.</ge>
+	</entry>
+	<entry key="m0007_s3_d1B">
+		<en/>
+		<ge>Mach ich, Chef. Mit der Walze kenn' ich mich aus, die hab' ich ja schon mal verwendet. Kann ich danach Feierabend machen?</ge>
+	</entry>
+	<entry key="m0007_s3_d1C">
+		<en/>
+		<ge>Na, von mir aus. Aber zuerst wird hier noch ein bisschen aufgeräumt.  Wenn alles hier so rumliegt, gibt's Ärger von der Berufsgenossenschaft.</ge>
+	</entry>
+	<entry key="m0007_s3_d1D">
+		<en/>
+		<ge>Gut, dann lass' uns die Arbeit schnell zu Ende bringen.</ge>
+	</entry>
+	<entry key="m0007_s3_d2A">
+		<en/>
+		<ge>Ok. Das hat ja super geklappt. </ge>
+	</entry>
+	<entry key="m0007_s3_d2B">
+		<en/>
+		<ge>Na klar. So wie immer.</ge>
+	</entry>
+	<entry key="m0007_s3_d2C">
+		<en/>
+		<ge>Jaja. Na, dann mach hier noch schnell ein bisschen Ordnung und dann kannst du für heute Schluss machen.</ge>
+	</entry>
+	<entry key="m0007_s3_d2D">
+		<en/>
+		<ge>Yippieh. Na, dann mal los.</ge>
+	</entry>
+	<entry key="m0008_name">
+		<en/>
+		<ge>Ziegelhaus bauen</ge>
+	</entry>
+	<entry key="m0008_owner">
+		<en/>
+		<ge>Familie Pielok</ge>
+	</entry>
+	<entry key="m0008_costs">
+		<en/>
+		<ge>645.500 €</ge>
+	</entry>
+	<entry key="m0008_s1_name">
+		<en/>
+		<ge>Fundament ausheben</ge>
+	</entry>
+	<entry key="m0008_s1_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich für das Fundament aus</ge>
+	</entry>
+	<entry key="m0008_s1_d1A">
+		<en/>
+		<ge>Guten Morgen, Fritz. Na, bist du fit? Du wirst heute alle deine Kräfte brauchen, wir bauen hier das neue Eigenheim von Herrn Pielok.</ge>
+	</entry>
+	<entry key="m0008_s1_d1B">
+		<en/>
+		<ge>Oh. Wird das was Größeres?</ge>
+	</entry>
+	<entry key="m0008_s1_d1C">
+		<en/>
+		<ge>Auf jeden Fall. Das wird ein richtig schönes Häuschen. Inklusive Swimming Pool und allem, was dazugehört.</ge>
+	</entry>
+	<entry key="m0008_s1_d1D">
+		<en/>
+		<ge>Na, dann lass' uns direkt loslegen. Ich sehe, die Baugrube ist schon markiert und der Bagger steht bereit. Dann fang' ich mal an zu baggern.</ge>
+	</entry>
+	<entry key="m0008_s2_name">
+		<en/>
+		<ge>Fundament gießen</ge>
+	</entry>
+	<entry key="m0008_s2_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Baugrube und sichere das Fahrzeug mit den Stützen
+
+2. Fülle den Betonmischer im Betonwerk unter dem Abfüllstutzen auf
+
+3. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+4. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+5. Fülle mit der Betonpumpe die Fundamentverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0008_s2_d1A">
+		<en/>
+		<ge>Super! Die Baugrube passt soweit. Jetzt kommt das Fundament. Du solltest noch schnell frischen Beton vom Betonwerk holen. Die Betonpumpe wurde auch gerade von einem Kollegen gebracht.</ge>
+	</entry>
+	<entry key="m0008_s2_d1B">
+		<en/>
+		<ge>Na, dann mach' ich mal direkt weiter. Wann soll denn eigentlich die Hütte hier fertig sein? </ge>
+	</entry>
+	<entry key="m0008_s2_d1C">
+		<en/>
+		<ge>Na, wie immer. Am besten schon gestern. Also müssen wir uns ein bisschen beeilen. Aber mit dir als kompetenter Fachkraft dürfte das ja kein Problem sein.</ge>
+	</entry>
+	<entry key="m0008_s2_d1D">
+		<en/>
+		<ge>Danke, Chef. Dann lass' uns nicht soviel schwätzen, sondern lieber an die Arbeit gehen.</ge>
+	</entry>
+	<entry key="m0008_s3_name">
+		<en/>
+		<ge>Wandziegel setzen</ge>
+	</entry>
+	<entry key="m0008_s3_tasks">
+		<en/>
+		<ge>1. Fahre mit dem Laster zum Baustoffhandel
+
+2. Belade den Laster mit den Wandziegeln. Der Gabelstapler steht schon bereit. Vergiss nicht, die Paletten danach auf dem Laster zu sichern.
+
+3. Fahre die Paletten zur Baustelle.
+
+4. Parke und sichere den Kran und hebe die Paletten auf die korrekte Position.</ge>
+	</entry>
+	<entry key="m0008_s3_d1A">
+		<en/>
+		<ge>So, das Fundament steht. Dann schnapp' dir doch den Laster und hole die Wandziegel beim Baustoffhandel. Ich hatte gestern schon angerufen und gebeten, dass die Paletten bereitgestellt werden.</ge>
+	</entry>
+	<entry key="m0008_s3_d1B">
+		<en/>
+		<ge>Alles klar. Soll ich einfach wieder den Gabelstapler nehmen und die Paletten aufladen?</ge>
+	</entry>
+	<entry key="m0008_s3_d1C">
+		<en/>
+		<ge>Genau. Mach das. Ist alles mit den Jungs dort abgesprochen. Die schicken dann einmal im Monat eine Rechnung über das ganze Zeug, das wir uns abgeholt haben.</ge>
+	</entry>
+	<entry key="m0008_s3_d1D">
+		<en/>
+		<ge>Ok. Dann bis gleich.</ge>
+	</entry>
+	<entry key="m0008_s4_name">
+		<en/>
+		<ge>Zwischendecke setzen</ge>
+	</entry>
+	<entry key="m0008_s4_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Deckenelemente auf den dafür vorgesehenen Platz</ge>
+	</entry>
+	<entry key="m0008_s4_d1A">
+		<en/>
+		<ge>So, Fritz. Die Maurer waren verdammt schnell und haben das Erdgeschoss in Rekordzeit hochgezogen. Jetzt sind wir wieder dran und setzen die Zwischendecke.</ge>
+	</entry>
+	<entry key="m0008_s4_d1B">
+		<en/>
+		<ge>Na, dann mal los. Den Kran und die Decken sehe ich auch schon. Sind die Zwischendecken schon montiert?</ge>
+	</entry>
+	<entry key="m0008_s4_d1C">
+		<en/>
+		<ge>Die hat der Kollege gerade noch zusammengeschweißt, sollten also bereit für die Montage sein</ge>
+	</entry>
+	<entry key="m0008_s4_d1D">
+		<en/>
+		<ge>Ok. Los geht's …</ge>
+	</entry>
+	<entry key="m0008_s5_name">
+		<en/>
+		<ge>Wandziegel setzen</ge>
+	</entry>
+	<entry key="m0008_s5_tasks">
+		<en/>
+		<ge>1. Fahre mit dem Laster zum Baustoffhandel
+
+2. Belade den Laster mit den Wandziegeln. Der Gabelstapler steht schon bereit. Vergiss nicht, die Paletten danach auf dem Laster zu sichern.
+
+3. Fahre die Paletten zur Baustelle.
+
+4. Parke und sichere den Kran und hebe die Paletten auf die korrekte Position.</ge>
+	</entry>
+	<entry key="m0008_s5_d1A">
+		<en/>
+		<ge>Na, das klappt ja wie am Schnürchen. Herr Pielok wird begeistert sein, wie schnell das Erdgeschoss entstanden ist. Dann hol' doch jetzt die Wandziegel für den ersten Stock.</ge>
+	</entry>
+	<entry key="m0008_s5_d1B">
+		<en/>
+		<ge>Kann das nicht schnell einer der Kollegen machen? Eigentlich wollte ich mich gerade in die Pause verabschieden.</ge>
+	</entry>
+	<entry key="m0008_s5_d1C">
+		<en/>
+		<ge>Pause? Wir müssen schauen, dass wir hier weiterkommen. Lass' uns das zusammen durchziehen, damit wir schnell fertig werden und in die Mittagpause gehen können.</ge>
+	</entry>
+	<entry key="m0008_s5_d1D">
+		<en/>
+		<ge>Mit »zusammen« meinst du wohl mich. Na gut, dann fahr' ich mal und hole die Paletten beim Baustoffhandel.</ge>
+	</entry>
+	<entry key="m0008_s6_name">
+		<en/>
+		<ge>Decken setzen</ge>
+	</entry>
+	<entry key="m0008_s6_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Deckenelemente auf den dafür vorgesehenen Platz</ge>
+	</entry>
+	<entry key="m0008_s6_d1A">
+		<en/>
+		<ge>Die Brötchen waren wirklich gut diesmal. Schon mal vielen Dank an dich, Fritz, für deinen Arbeitseinsatz. Lass' uns jetzt noch das Dach fertig machen und dann war's das erstmal für heute. </ge>
+	</entry>
+	<entry key="m0008_s6_d1B">
+		<en/>
+		<ge>Danke. Ich mach's ja auch gerne. Na, dann lass' uns direkt weitermachen.</ge>
+	</entry>
+	<entry key="m0008_s6_d1C">
+		<en/>
+		<ge>Ok, super! Die nächste Decke wird aus fertigen Dachelementen gesetzt. Die Elemente wurden gerade schon geliefert und ich habe den Kran organisiert. Sichere das Ding entsprechend und hebe dann die Elemente aufs Dach.</ge>
+	</entry>
+	<entry key="m0008_s6_d1D">
+		<en/>
+		<ge>Alles klar, Chef. Los geht's …</ge>
+	</entry>
+	<entry key="m0008_s7_name">
+		<en/>
+		<ge>Dachziegel setzen</ge>
+	</entry>
+	<entry key="m0008_s7_tasks">
+		<en/>
+		<ge>1. Fahre mit dem Laster zum Baustoffhandel
+
+2. Belade den Laster mit den Ziegelpaletten. Der Gabelstapler steht schon bereit. Vergiss nicht, die Paletten danach auf dem Laster zu sichern.
+
+3. Fahre die Paletten zur Baustelle.
+
+4. Parke und sichere den Kran und hebe die Paletten auf die korrekte Position auf dem Dach.</ge>
+	</entry>
+	<entry key="m0008_s7_d1A">
+		<en/>
+		<ge>Super! Jetzt sind wir schon fast fertig. Die Dachdecker sind gerade angerückt. Die brauchen nur noch die entsprechenden Dachziegel. </ge>
+	</entry>
+	<entry key="m0008_s7_d1B">
+		<en/>
+		<ge>Lass' mich raten! Die soll ich holen!</ge>
+	</entry>
+	<entry key="m0008_s7_d1C">
+		<en/>
+		<ge>Genau! Hol' die Paletten noch schnell beim Baustoffhandel und dann kannst du Feierabend machen.</ge>
+	</entry>
+	<entry key="m0008_s7_d1D">
+		<en/>
+		<ge>Yippieh! Dann beeile ich mich mal.</ge>
+	</entry>
+	<entry key="m0008_s8_name">
+		<en/>
+		<ge>Poolgrube baggern</ge>
+	</entry>
+	<entry key="m0008_s8_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich für den Pool aus</ge>
+	</entry>
+	<entry key="m0008_s8_d1A">
+		<en/>
+		<ge>Guten Morgen, Fritz. Das lief ja bis jetzt alles hervorragend. Heute setzen wir noch den Swimmingpool. </ge>
+	</entry>
+	<entry key="m0008_s8_d1B">
+		<en/>
+		<ge>Oh. Der Herr Pielok hat einen Pool, wohl im Lotto gewonnen?</ge>
+	</entry>
+	<entry key="m0008_s8_d1C">
+		<en/>
+		<ge>Nee, eher 'ne Menge Geld mit Software verdient. Der Bagger steht bereit. Heb' schon mal die Grube für den Pool aus. Der sollte demnächst dann auch von der Pool-Firma geliefert werden. Die Grube muss dann bereits fertig sein.</ge>
+	</entry>
+	<entry key="m0008_s8_d1D">
+		<en/>
+		<ge>Alles klar. Dann lass' uns gleich loslegen.</ge>
+	</entry>
+	<entry key="m0008_s9_name">
+		<en/>
+		<ge>Pool platzieren</ge>
+	</entry>
+	<entry key="m0008_s9_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran den Pool in die ausgehobene Grube</ge>
+	</entry>
+	<entry key="m0008_s9_d1A">
+		<en/>
+		<ge>Die Kollegen von der Pool-Firma haben gerade das Teil angeliefert. Ich frage mich, wie die hier durch die engen Straßen gekommen sind.</ge>
+	</entry>
+	<entry key="m0008_s9_d1B">
+		<en/>
+		<ge>Da sind halt Profis wie ich am Werk. Hihi.</ge>
+	</entry>
+	<entry key="m0008_s9_d1C">
+		<en/>
+		<ge>Na, mal nicht übermütig werden. Wir heben den Pool jetzt noch in die Grube und dann sind wir hier fertig. Herr Pielok kann sich dann endlich hier sonnen und einen Schirmchendrink zu sich nehmen.</ge>
+	</entry>
+	<entry key="m0008_s9_d1D">
+		<en/>
+		<ge>So machen wir das Chef. Und wir gehen ins Freibad.</ge>
+	</entry>
+	<entry key="m0008_s9_d2A">
+		<en/>
+		<ge>Super! Jetzt sitzt auch der Pool korrekt und wir sind in der geplanten Zeit fertig geworden. Großes Lob an dich, Fritz.</ge>
+	</entry>
+	<entry key="m0008_s9_d2B">
+		<en/>
+		<ge>Schon gut. Das ist ja mein Job. </ge>
+	</entry>
+	<entry key="m0008_s9_d2C">
+		<en/>
+		<ge>Da werden sich Herr und Frau Pielok aber freuen. Die können jetzt schon nächste Woche einziehen.</ge>
+	</entry>
+	<entry key="m0008_s9_d2D">
+		<en/>
+		<ge>Na, dann mal einen schönen Gruß an die beiden. Vielleicht komm' ich ja mal vorbei und leg' mich mit an den Pool.</ge>
+	</entry>
+	<entry key="m0009_name">
+		<en/>
+		<ge>Hafenkran</ge>
+	</entry>
+	<entry key="m0009_owner">
+		<en/>
+		<ge>Cargo Hafen GmbH</ge>
+	</entry>
+	<entry key="m0009_costs">
+		<en/>
+		<ge>35.600 €</ge>
+	</entry>
+	<entry key="m0009_s1_name">
+		<en/>
+		<ge>Container setzen</ge>
+	</entry>
+	<entry key="m0009_s1_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die Container auf das Schiff</ge>
+	</entry>
+	<entry key="m0009_s1_d1A">
+		<en/>
+		<ge>Grüß dich, Fritz. Super, dass du so schnell kommen konntest!</ge>
+	</entry>
+	<entry key="m0009_s1_d1B">
+		<en/>
+		<ge>Hallo Chef. Was ist denn los, dass du mich an meinem freien Tag rausklingelst und zum Hafen bestellst.</ge>
+	</entry>
+	<entry key="m0009_s1_d1C">
+		<en/>
+		<ge>Mein Kumpel Kurt von der Cargo Hafen GmbH hat mich gerade angerufen. Der große Kran am Hafen ist ausgefallen und nun können die Container nicht mehr verladen werden.</ge>
+	</entry>
+	<entry key="m0009_s1_d1D">
+		<en/>
+		<ge>Was haben wir denn damit zu tun, wenn im Hafen der Kran ausfällt?</ge>
+	</entry>
+	<entry key="m0009_s1_d1E">
+		<en/>
+		<ge>Na ja, ich schulde meinem Kumpel Kurt noch einen Gefallen. Deswegen habe ich angeboten, dass wir mit unserem Autokran aushelfen können.</ge>
+	</entry>
+	<entry key="m0009_s1_d1F">
+		<en/>
+		<ge>Verstehe schon. Du immer mit deinen Gefallen. Was soll ich tun?</ge>
+	</entry>
+	<entry key="m0009_s1_d1G">
+		<en/>
+		<ge>Schnapp' dir den Kran und parke ihn an der Kaimauer. Dann kannst du die fünf übrigen Container auf das Schiff heben.</ge>
+	</entry>
+	<entry key="m0009_s1_d2A">
+		<en/>
+		<ge>Super, Fritz! Vielen Dank, dass du so schnell ausgeholfen hast.</ge>
+	</entry>
+	<entry key="m0009_s1_d2B">
+		<en/>
+		<ge>Hab' ich gerne gemacht. Jetzt schuldest du mir aber einen Gefallen. Und einen zusätzlichen freien Urlaubstag.</ge>
+	</entry>
+	<entry key="m0009_s1_d2C">
+		<en/>
+		<ge>Ja, schon gut. Bekommst du alles. Komm ich lad' dich erstmal auf ein Bier ein nach dem ganzen Stress.</ge>
+	</entry>
+	<entry key="m0009_s1_d2D">
+		<en/>
+		<ge>Jo. Das ist doch mal ein Wort.</ge>
+	</entry>
+	<entry key="m0010_name">
+		<en/>
+		<ge>Sportplatz bauen</ge>
+	</entry>
+	<entry key="m0010_owner">
+		<en/>
+		<ge>1. FC Kicker Club</ge>
+	</entry>
+	<entry key="m0010_costs">
+		<en/>
+		<ge>126.000 €</ge>
+	</entry>
+	<entry key="m0010_s1_name">
+		<en/>
+		<ge>Flutlichtmasten setzen</ge>
+	</entry>
+	<entry key="m0010_s1_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe die Flutlichtmasten auf die vorbereitete Verankerung</ge>
+	</entry>
+	<entry key="m0010_s1_d1A">
+		<en/>
+		<ge>Guten Morgen, Fritz. Und hast du gut geschlafen?</ge>
+	</entry>
+	<entry key="m0010_s1_d1B">
+		<en/>
+		<ge>Ja, passt schon. Was steht denn heute an?</ge>
+	</entry>
+	<entry key="m0010_s1_d1C">
+		<en/>
+		<ge>Heute bauen wir für den 1. FC Kicker Club einen neuen Sportplatz. Die Landvermesser haben schon alles detailliert abgemessen und gekennzeichnet. Unsere Aufgabe ist es nun, die Flutlichtmasten zu setzen und dann später den Untergrund zu verdichten.</ge>
+	</entry>
+	<entry key="m0010_s1_d1D">
+		<en/>
+		<ge>Alles klar. Dann mach' ich mich gleich mal auf und sichere den Kran mit den Stützen ab und setze die Flutlichtmasten in die vorbereiteten Fundamente.</ge>
+	</entry>
+	<entry key="m0010_s1_d1E">
+		<en/>
+		<ge>Genau. Ich merke schon, dass ich dir nichts mehr groß erzählen muss. Super!</ge>
+	</entry>
+	<entry key="m0010_s2_name">
+		<en/>
+		<ge>Sportplatz verdichten</ge>
+	</entry>
+	<entry key="m0010_s2_tasks">
+		<en/>
+		<ge>1. Fahre mit der Walze den abgesteckten Bereich ab, um den Untergrund zu verdichten.</ge>
+	</entry>
+	<entry key="m0010_s2_d1A">
+		<en/>
+		<ge>Ok. Licht haben wir schon mal. Jetzt musst du nur noch den Untergrund verdichten. Das ist wichtig, damit das Regenwasser auch gut abfließen kann.</ge>
+	</entry>
+	<entry key="m0010_s2_d1B">
+		<en/>
+		<ge>Ok, verstehe. Ich schnapp' mir die Walze und fahre den Sportplatz ab.</ge>
+	</entry>
+	<entry key="m0010_s2_d1C">
+		<en/>
+		<ge>Genau. Dann kann der Platzwart danach den Rasen verlegen. Ab nächster Saison gibt's dann hier richtig schönen Kreisliga-Fußball.</ge>
+	</entry>
+	<entry key="m0010_s2_d1D">
+		<en/>
+		<ge>Hört sich gut an. Dann können wir uns immer samstagvormittags auf eine Bratwurst und ein Bier treffen und den Jungs beim Kicken zuschauen.</ge>
+	</entry>
+	<entry key="m0010_s2_d2A">
+		<en/>
+		<ge>Super, Fritz! Das hat ja wie immer gut geklappt. Die Kollegen bauen nun noch ein kleines Vereinshaus. Dann kann es hier richtig losgehen. </ge>
+	</entry>
+	<entry key="m0010_s2_d2B">
+		<en/>
+		<ge>Ok. Hört sich gut an. Evtl. steigen ja die Kicker-Jungs auch mal auf und wir bauen hier ein richtiges Stadion. Das wäre ja mal ein tolles Projekt für uns.</ge>
+	</entry>
+	<entry key="m0010_s2_d2C">
+		<en/>
+		<ge>Na, jetzt werde mal nicht gleich größenwahnsinnig. Die nächsten Jahre spielen die Jungs bestimmt erstmal in der Kreisliga. Und dann schauen wir weiter.</ge>
+	</entry>
+	<entry key="m0010_s2_d2D">
+		<en/>
+		<ge>Schon ok. Aber man wird ja mal träumen dürfen.</ge>
+	</entry>
+	<entry key="m0010_s2_d2E">
+		<en/>
+		<ge>Klar darfst du das. Aber komm' doch mal demnächst selber auf den Platz und schieß' ein paar Tore. Meistens liegt hier ja auch noch ein alter Ball rum. Da kannst du ein bisschen trainieren.</ge>
+	</entry>
+	<entry key="m0011_name">
+		<en/>
+		<ge>Schule bauen</ge>
+	</entry>
+	<entry key="m0011_owner">
+		<en/>
+		<ge>Kreisschulamt</ge>
+	</entry>
+	<entry key="m0011_costs">
+		<en/>
+		<ge>2.300.000 €</ge>
+	</entry>
+	<entry key="m0011_s1_name">
+		<en/>
+		<ge>Fundament ausheben</ge>
+	</entry>
+	<entry key="m0011_s1_tasks">
+		<en/>
+		<ge>1. Baggere den markierten Bereich für das Fundament aus</ge>
+	</entry>
+	<entry key="m0011_s1_d1A">
+		<en/>
+		<ge>Hallo Fritz. Na, alles klar bei dir? Heute starten wir ein größeres Projekt. Das Kreisschulamt baut hier eine neue Grundschule.</ge>
+	</entry>
+	<entry key="m0011_s1_d1B">
+		<en/>
+		<ge>Hallo Chef. Ok, dann lass' uns keine Zeit verlieren und direkt anfangen.</ge>
+	</entry>
+	<entry key="m0011_s1_d1C">
+		<en/>
+		<ge>Ich sehe, du hast die richtige Einstellung. Wir heben erstmal eine Grube für das Fundament aus. Die Schule bekommt aber zum Glück keinen Keller, so dass wir nur die oberste Erdschicht abtragen. Ich habe gerade den Bagger schon vom Tieflader abgeladen und den entsprechenden Bereich mit Absperrband markiert.</ge>
+	</entry>
+	<entry key="m0011_s1_d1D">
+		<en/>
+		<ge>Super, danke. Dann fang' ich mal direkt an zu baggern.</ge>
+	</entry>
+	<entry key="m0011_s2_name">
+		<en/>
+		<ge>Fundament gießen</ge>
+	</entry>
+	<entry key="m0011_s2_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Baugrube und sichere das Fahrzeug mit den Stützen
+
+2. Fülle den Betonmischer im Betonwerk unter dem Abfüllstutzen auf
+
+3. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+4. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+5. Fülle mit der Betonpumpe die Fundamentverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0011_s2_d1A">
+		<en/>
+		<ge>Sehr gut. Das Ausheben der Baugrube hat ja schon ganz gut funktioniert.</ge>
+	</entry>
+	<entry key="m0011_s2_d1B">
+		<en/>
+		<ge>Klar. Ich hab schon häufiger mit größeren Baumaschinen zu tun gehabt.</ge>
+	</entry>
+	<entry key="m0011_s2_d1C">
+		<en/>
+		<ge>Im nächsten Schritt werden wir das Fundament gießen. Der Betonmischer muss noch im Betonwerk aufgefüllt werden. Mit der Betonpumpe bist du ja auch inzwischen vertraut.</ge>
+	</entry>
+	<entry key="m0011_s2_d1D">
+		<en/>
+		<ge>Na klar, das Ding beherrsche ich auch im Schlaf.</ge>
+	</entry>
+	<entry key="m0011_s2_d1E">
+		<en/>
+		<ge>Schon gut, weiß ich ja. Dann mal los …</ge>
+	</entry>
+	<entry key="m0011_s3_name">
+		<en/>
+		<ge>Wände gießen</ge>
+	</entry>
+	<entry key="m0011_s3_tasks">
+		<en/>
+		<ge>1. Parke die Betonpumpe möglichst nah an der Baustelle und sichere das Fahrzeug mit den Stützen
+
+2. Fülle den Betonmischer im Betonwerk unter dem Abfüllstutzen auf
+
+3. Fahre mit dem Betonmischer von hinten an die Betonpumpe und platziere den Betonausguss über dem Einfülltrichter der Betonpumpe
+
+4. Drehe die Betontrommel in die richtige Richtung, um den Beton auszuschütten
+
+5. Fülle mit der Betonpumpe die Wandverschalung komplett und gleichmäßig aus</ge>
+	</entry>
+	<entry key="m0011_s3_d1A">
+		<en/>
+		<ge>Na siehste, war doch gar nicht so schwer mit der Betonpumpe. Die Kollegen haben gerade auch schon die Verschalungen zum Gießen der Wände gesetzt.</ge>
+	</entry>
+	<entry key="m0011_s3_d1B">
+		<en/>
+		<ge>Na, dann wird das ja die gleiche Geschichte wie gerade eben.</ge>
+	</entry>
+	<entry key="m0011_s3_d1C">
+		<en/>
+		<ge>Genau. Erstmal wieder die Pumpe geschickt positionieren, den Mischer im Betonwerk füllen und dann die Pumpe mit dem Betonmischer auffüllen.</ge>
+	</entry>
+	<entry key="m0011_s3_d1D">
+		<en/>
+		<ge>Na, dann los.</ge>
+	</entry>
+	<entry key="m0011_s4_name">
+		<en/>
+		<ge>Zwischendecke setzen</ge>
+	</entry>
+	<entry key="m0011_s4_tasks">
+		<en/>
+		<ge>1. Parke den Kran korrekt und fahre die Stützen aus
+
+2. Hebe mit dem Kran die einzelnen Deckenelemente auf den dafür vorgesehenen Platz</ge>
+	</entry>
+	<entry key="m0011_s4_d1A">
+		<en/>
+		<ge>Sehr gut. Der Rohbau steht nun schon fast.</ge>
+	</entry>
+	<entry key="m0011_s4_d1B">
+		<en/>
+		<ge>Bis jetzt sind wir gut durchgekommen.</ge>
+	</entry>
+	<entry key="m0011_s4_d1C">
+		<en/>
+		<ge>Als Nächstes müssen wir noch die Dachplatten setzen. Verwende dazu den Autokran. Der Kollege hat ihn gerade schon gebracht und vorne auf der Straße geparkt. Parke ihn erstmal um und sichere ihn mit den Stützen ab. Danach kannst du die Dachplatten einzeln platzieren.</ge>
+	</entry>
+	<entry key="m0011_s4_d1D">
+		<en/>
+		<ge>Hab' ich ja auch bereits bei den anderen Häusern gemacht. Sollte also kein Problem sein.</ge>
+	</entry>
+	<entry key="m0011_s4_d1E">
+		<en/>
+		<ge>Ok. Und pass' auf, dass du nichts mit den schweren Dachplatten einreißt.</ge>
+	</entry>
+	<entry key="m0011_s5_name">
+		<en/>
+		<ge>Ziegel setzen</ge>
+	</entry>
+	<entry key="m0011_s5_tasks">
+		<en/>
+		<ge>1. Fahre mit dem Laster zum Baustoffhandel
+
+2. Belade den Laster mit den Ziegelpaletten. Der Gabelstapler steht schon bereit. Vergiss nicht, die Paletten danach auf dem Laster zu sichern.
+
+3. Fahre die Paletten zur Baustelle.
+
+4. Parke und sichere den Kran und hebe die Paletten auf die korrekte Position auf dem Dach.</ge>
+	</entry>
+	<entry key="m0011_s5_d1A">
+		<en/>
+		<ge>Der Rohbau steht endlich. Noch sind Architekt und Bauherr glücklich. Deswegen sollten wir keine Zeit verschwenden und genauso weiterarbeiten wie bisher.</ge>
+	</entry>
+	<entry key="m0011_s5_d1B">
+		<en/>
+		<ge>Na gut. Ich dachte zwar, ich mach' erstmal eine Pause mit den Jungs. Aber wenn so viel ansteht, geht's halt direkt weiter.</ge>
+	</entry>
+	<entry key="m0011_s5_d1C">
+		<en/>
+		<ge>Wir brauchen nun die Dachziegel, damit die Kollegen das Dach entsprechend eindecken können. Fahr' mal mit dem weißen LKW zum Baustoffhandel und hol' drei Paletten von den blauen Dachziegeln. Wenn beim Baustoffhandel keiner auf dem Hof sein sollte, schnapp' dir einfach den Gabelstapler und lade selber die Paletten auf.</ge>
+	</entry>
+	<entry key="m0011_s5_d1D">
+		<en/>
+		<ge>Geht klar.</ge>
+	</entry>
+	<entry key="m0011_s5_d1E">
+		<en/>
+		<ge>Ok, super! Und vergiss nicht, die Ladung zu sichern, bevor du losfährst. Sonst kommt hier nur die Hälfte an.</ge>
+	</entry>
+	<entry key="m0011_s6_name">
+		<en/>
+		<ge>Vorplatz einebnen</ge>
+	</entry>
+	<entry key="m0011_s6_tasks">
+		<en/>
+		<ge>1. Fahre mit der Walze den abgesteckten Bereich ab, um den Untergrund zu verdichten.</ge>
+	</entry>
+	<entry key="m0011_s6_d1A">
+		<en/>
+		<ge>Super! Die Schule steht und es lief alles nach Plan. Das hast du gut gemacht.</ge>
+	</entry>
+	<entry key="m0011_s6_d1B">
+		<en/>
+		<ge>Danke, danke. Genau dafür bin ich ja da.</ge>
+	</entry>
+	<entry key="m0011_s6_d1C">
+		<en/>
+		<ge>Aber Vorsicht, wir sind noch nicht ganz fertig. Vor der Schule wird noch ein Weg gebaut. Das bedeutet, dass wir noch alles einebnen und den Untergrund verdichten müssen. Verwende dazu die Walze und fahr' den abgesteckten Bereich ab.</ge>
+	</entry>
+	<entry key="m0011_s6_d1D">
+		<en/>
+		<ge>Wird gemacht, Chef.</ge>
+	</entry>
+	<entry key="m0011_s7_name">
+		<en/>
+		<ge>Rohranschluss legen</ge>
+	</entry>
+	<entry key="m0011_s7_tasks">
+		<en/>
+		<ge>1. Verwende den Frontlader, um die einzelnen Rohre in dem ausgehobenen Bereich abzulegen.</ge>
+	</entry>
+	<entry key="m0011_s7_d1A">
+		<en/>
+		<ge>Argh! Bis jetzt ist ja alles gut gelaufen, aber nun kam raus, dass bei der Vorbereitung des Grundstücks die Abwasserrohrleitung für den Parkplatz vergessen wurde. </ge>
+	</entry>
+	<entry key="m0011_s7_d1B">
+		<en/>
+		<ge>Och nee. Den habe ich doch gerade schon planiert.</ge>
+	</entry>
+	<entry key="m0011_s7_d1C">
+		<en/>
+		<ge>Genau. Macht aber nichts. Die Kollegen haben schon den Verlauf der Rohrleitung freigelegt. Du musst nun nur noch die Rohre mit dem Frontlader nehmen und in dem ausgehobenen Bereich ablegen.</ge>
+	</entry>
+	<entry key="m0011_s7_d1D">
+		<en/>
+		<ge>Na, dann mal keine Zeit verlieren, so dass ich heute noch nach Hause komme.</ge>
+	</entry>
+	<entry key="m0011_s7_d2A">
+		<en/>
+		<ge>Sehr gut, Fritz. Die Schule steht soweit und der Parkplatz ist auch planiert.</ge>
+	</entry>
+	<entry key="m0011_s7_d2B">
+		<en/>
+		<ge>Na, das war aber ein hartes Stück Arbeit. Aber das Ergebnis kann sich sehen lassen.</ge>
+	</entry>
+	<entry key="m0011_s7_d2C">
+		<en/>
+		<ge>Auf jeden Fall. Das hast du echt gut gemacht. Nach der ganzen Arbeit kannst du dir erstmal ein paar Tage frei nehmen. Hast du dir wirklich verdient.</ge>
+	</entry>
+	<entry key="m0011_s7_d2D">
+		<en/>
+		<ge>Wow! Im Ernst. Das hört sich ja gut an. Na, dann bin ich erstmal weg. Mach's gut!</ge>
+	</entry>
+	<entry key="m0011_s7_d2E">
+		<en/>
+		<ge>Mach's gut, Fritz und erhol' dich gut. Aber nicht zu lange wegbleiben, damit du nicht alles verlernst. Bald geht's hier wieder weiter …</ge>
+	</entry>
+	<entry key="credits_headline">
+		<en>Credits</en>
+		<ge>Credits</ge>
+	</entry>
+	<entry key="credits_content">
+		<en/>
+		<ge>astragon Software GmbH
+------------------------------------------------------------------
+
+Dirk Ohler - Head of Product Management
+Susanne Schübel - Product Manager
+Jens Brauckhoff - Product Manager
+
+
+
+
+weltenbauer. Software Entwicklung GmbH
+------------------------------------------------------------------
+
+Christian Rathemacher - Project Manager
+Daniel Pielok - Lead Programmer
+Matthias Wagner - Lead Artist
+René Nold - 2D/3D Artist
+Niels Horn - Programmer
+Stefan Gutsch - 3D Artist
+Lisa Gras - 2D/3D Artist
+Anne Smieja - 3D Artist
+Michael Roos - 2D Artist
+Jenny Beck - QA
+Kara - Hund
+
+
+
+
+Musik von Contendo Media.
+------------------------------------------------------------------
+www.contendomedia.de
+
+
+
+
+Sounds from FreeSound.org
+------------------------------------------------------------------
+morning_in_the_forest_2007_04_15.wav by reinsamba -- http://www.freesound.org/people/reinsamba/sounds/33827/
+sound-tick1.wav by zippi1 -- http://www.freesound.org/people/zippi1/sounds/18261/
+bm_carongravel.wav by cmusounddesign -- http://www.freesound.org/people/cmusounddesign/sounds/71951/
+hydraul1.wav by swelk -- http://www.freesound.org/people/swelk/sounds/12906/
+Construction work 02.aif by Stomp -- http://www.freesound.org/people/Stomp/sounds/17641/
+applause.wav by cognito perceptu -- http://www.freesound.org/people/cognito%20perceptu/sounds/57587/
+gravel4.wav by Snoman -- http://www.freesound.org/people/Snoman/sounds/9911/
+gravel2.wav by Snoman -- http://www.freesound.org/people/Snoman/sounds/9909/
+20060329.diesel.engine.flac by dobroide -- http://www.freesound.org/people/dobroide/sounds/17592/
+Stonehaven beach.WAV by inchadney -- http://www.freesound.org/people/inchadney/sounds/103673/
+backup truck.flac by Corsica_S -- http://www.freesound.org/people/Corsica_S/sounds/22877/
+metal crash 3.wav by Halleck -- http://www.freesound.org/people/Halleck/sounds/121657/</ge>
+	</entry>
+	<entry key="publisher_url_text">
+		<en/>
+		<ge>www.astragon.de</ge>
+	</entry>
+	<entry key="publisher_url">
+		<en/>
+		<ge>http://www.astragon.de</ge>
+	</entry>
+	<entry key="developer_url_text">
+		<en/>
+		<ge>www.bausimulator2012.de</ge>
+	</entry>
+	<entry key="developer_url">
+		<en/>
+		<ge>http://www.bausimulator2012.de</ge>
+	</entry>
+	<entry key="truck_dumper_dump_not_allowed">
+		<en/>
+		<ge>Du darfst den Kipplader nur auf der aktuellen Baustelle bzw. auf dem Schuttplatz des Betonwerks leeren.</ge>
+	</entry>
+	<entry key="excavator_dump_not_allowed">
+		<en/>
+		<ge>Du darfst die Schaufel des Baggers nur auf der aktuellen Baustelle bzw. auf der Ladefläche des Kippladers entleeren.</ge>
+	</entry>
+	<entry key="gravel_pit_start">
+		<en/>
+		<ge>Hier in der Kiesgrube kannst du alle Fahrzeuge ausprobieren. Weiter hinten in der Grube stehen auch die beiden Bagger. Falls du Hilfe benötigst, kannst du dir am rechten Bildschirmrand die Tastenbelegung der Fahrzeuge anzeigen lassen.</ge>
+	</entry>
+	<entry key="concrete_mixer_empty">
+		<en/>
+		<ge>Der Betonmischer ist leer. Fülle ihn zuerst am Betonwerk auf.</ge>
+	</entry>
+	<entry key="tooltip_new_profile">
+		<en/>
+		<ge>Neues Profil anlegen</ge>
+	</entry>
+	<entry key="tooltip_delete_profile">
+		<en/>
+		<ge>Profil löschen</ge>
+	</entry>
+	<entry key="info_sidebar">
+		<en/>
+		<ge>Um Informationen zu deiner aktuellen Aufgabe, zur Steuerung der Fahrzeuge oder zu deiner Position auf der Karte anzuzeigen, kannst du am rechten Bildschirmrand ein Hilfemenü ausfahren.</ge>
+	</entry>
+	<entry key="reset_vehicle_lock">
+		<en/>
+		<ge>Das Fahrzeug kann nicht zurückgesetzt werden, da auf der Zielposition ein anderer Gegenstand steht.</ge>
+	</entry>
+	<entry key="vehicle_exit_too_fast">
+		<en/>
+		<ge>Die Geschwindigkeit des Fahrzeugs ist zu hoch um auszusteigen. Du würdest dich verletzen!</ge>
+	</entry>
+</text>
